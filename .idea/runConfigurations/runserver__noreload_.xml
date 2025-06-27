@@ -1,0 +1,29 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="runserver (noreload)" type="Python.DjangoServer" factoryName="Django server">
+    <module name="soldera" />
+    <option name="ENV_FILES" value="" />
+    <option name="INTERPRETER_OPTIONS" value="" />
+    <option name="PARENT_ENVS" value="true" />
+    <envs>
+      <env name="PYTHONUNBUFFERED" value="1" />
+      <env name="DJANGO_LOG_LEVEL" value="DEBUG" />
+      <env name="DJANGO_SETTINGS_MODULE" value="soldera.settings.settings" />
+    </envs>
+    <option name="SDK_HOME" value="" />
+    <option name="SDK_NAME" value="Poetry (soldera)" />
+    <option name="WORKING_DIRECTORY" value="C:\git\soldera" />
+    <option name="IS_MODULE_SDK" value="false" />
+    <option name="ADD_CONTENT_ROOTS" value="true" />
+    <option name="ADD_SOURCE_ROOTS" value="true" />
+    <option name="launchJavascriptDebuger" value="false" />
+    <option name="port" value="8001" />
+    <option name="host" value="" />
+    <option name="additionalOptions" value="--nothreading" />
+    <option name="browserUrl" value="" />
+    <option name="runTestServer" value="false" />
+    <option name="runNoReload" value="true" />
+    <option name="useCustomRunCommand" value="false" />
+    <option name="customRunCommand" value="" />
+    <method v="2" />
+  </configuration>
+</component>

@@ -1,0 +1,8 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="React + Django + Db Worker" type="CompoundRunConfigurationType">
+    <toRun name="Django server" type="Python.DjangoServer" />
+    <toRun name="React Server" type="js.build_tools.npm" />
+    <toRun name="Db Worker" type="PythonConfigurationType" />
+    <method v="2" />
+  </configuration>
+</component>

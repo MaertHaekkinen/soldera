@@ -1,0 +1,5478 @@
+{
+  "results": [
+    {
+      "auctions": [
+        {
+          "region": "Auvergne-Rhône-Alpes",
+          "technology": "wind_energy_onshore",
+          "volume_auctioned": 69946,
+          "average_price": 0.98,
+          "volume_sold": 69946,
+          "number_of_winners": 2
+        },
+        {
+          "region": "Auvergne-Rhône-Alpes",
+          "technology": "hydro",
+          "volume_auctioned": 102639,
+          "average_price": 0.83,
+          "volume_sold": 102639,
+          "number_of_winners": 9
+        },
+        {
+          "region": "Auvergne-Rhône-Alpes",
+          "technology": "solar",
+          "volume_auctioned": 45248,
+          "average_price": 0.83,
+          "volume_sold": 45248,
+          "number_of_winners": 6
+        },
+        {
+          "region": "Auvergne-Rhône-Alpes",
+          "technology": "thermal",
+          "volume_auctioned": 27411,
+          "average_price": 0.83,
+          "volume_sold": 27411,
+          "number_of_winners": 1
+        },
+        {
+          "region": "Bourgogne-Franche-Comté",
+          "technology": "wind_energy_onshore",
+          "volume_auctioned": 177681,
+          "average_price": 0.91,
+          "volume_sold": 177681,
+          "number_of_winners": 6
+        },
+        {
+          "region": "Bourgogne-Franche-Comté",
+          "technology": "hydro",
+          "volume_auctioned": 22302,
+          "average_price": 0.84,
+          "volume_sold": 22302,
+          "number_of_winners": 1
+        },
+        {
+          "region": "Bourgogne-Franche-Comté",
+          "technology": "solar",
+          "volume_auctioned": 10984,
+          "average_price": 0.76,
+          "volume_sold": 10984,
+          "number_of_winners": 1
+        },
+        {
+          "region": "Bourgogne-Franche-Comté",
+          "technology": "thermal",
+          "volume_auctioned": 19665,
+          "average_price": 0.83,
+          "volume_sold": 19665,
+          "number_of_winners": 1
+        },
+        {
+          "region": "Bretagne",
+          "technology": "wind_energy_onshore",
+          "volume_auctioned": 130702,
+          "average_price": 0.94,
+          "volume_sold": 130702,
+          "number_of_winners": 3
+        },
+        {
+          "region": "Bretagne",
+          "technology": "hydro",
+          "volume_auctioned": 4623,
+          "average_price": 0.83,
+          "volume_sold": 4623,
+          "number_of_winners": 3
+        },
+        {
+          "region": "Bretagne",
+          "technology": "solar",
+          "volume_auctioned": 2684,
+          "average_price": 0.9,
+          "volume_sold": 2684,
+          "number_of_winners": 2
+        },
+        {
+          "region": "Bretagne",
+          "technology": "thermal",
+          "volume_auctioned": 19864,
+          "average_price": 0.81,
+          "volume_sold": 19864,
+          "number_of_winners": 2
+        },
+        {
+          "region": "Centre-Val de Loire",
+          "technology": "wind_energy_onshore",
+          "volume_auctioned": 224327,
+          "average_price": 0.9,
+          "volume_sold": 224327,
+          "number_of_winners": 8
+        },
+        {
+          "region": "Centre-Val de Loire",
+          "technology": "hydro",
+          "volume_auctioned": 1288,
+          "average_price": 0.77,
+          "volume_sold": 1288,
+          "number_of_winners": 2
+        },
+        {
+          "region": "Centre-Val de Loire",
+          "technology": "solar",
+          "volume_auctioned": 14925,
+          "average_price": 0.86,
+          "volume_sold": 14925,
+          "number_of_winners": 3
+        },
+        {
+          "region": "Centre-Val de Loire",
+          "technology": "thermal",
+          "volume_auctioned": 14885,
+          "average_price": 0.77,
+          "volume_sold": 14885,
+          "number_of_winners": 2
+        },
+        {
+          "region": "Grand Est",
+          "technology": "wind_energy_onshore",
+          "volume_auctioned": 724356,
+          "average_price": 0.83,
+          "volume_sold": 724356,
+          "number_of_winners": 15
+        },
+        {
+          "region": "Grand Est",
+          "technology": "hydro",
+          "volume_auctioned": 24216,
+          "average_price": 0.77,
+          "volume_sold": 24216,
+          "number_of_winners": 2
+        },
+        {
+          "region": "Grand Est",
+          "technology": "solar",
+          "volume_auctioned": 17784,
+          "average_price": 0.73,
+          "volume_sold": 17784,
+          "number_of_winners": 2
+        },
+        {
+          "region": "Grand Est",
+          "technology": "thermal",
+          "volume_auctioned": 53752,
+          "average_price": 0.81,
+          "volume_sold": 53752,
+          "number_of_winners": 3
+        },
+        {
+          "region": "Haut-de-France",
+          "technology": "wind_energy_onshore",
+          "volume_auctioned": 1224404,
+          "average_price": 0.78,
+          "volume_sold": 1224404,
+          "number_of_winners": 19
+        },
+        {
+          "region": "Haut-de-France",
+          "technology": "hydro",
+          "volume_auctioned": 770,
+          "average_price": 0.71,
+          "volume_sold": 770,
+          "number_of_winners": 1
+        },
+        {
+          "region": "Haut-de-France",
+          "technology": "solar",
+          "volume_auctioned": 6761,
+          "average_price": 0.82,
+          "volume_sold": 6761,
+          "number_of_winners": 2
+        },
+        {
+          "region": "Haut-de-France",
+          "technology": "thermal",
+          "volume_auctioned": 30755,
+          "average_price": 0.78,
+          "volume_sold": 30755,
+          "number_of_winners": 1
+        },
+        {
+          "region": "Île-de-France",
+          "technology": "wind_energy_onshore",
+          "volume_auctioned": 31778,
+          "average_price": 0.92,
+          "volume_sold": 31778,
+          "number_of_winners": 2
+        },
+        {
+          "region": "Île-de-France",
+          "technology": "hydro",
+          "volume_auctioned": 771,
+          "average_price": 0.71,
+          "volume_sold": 771,
+          "number_of_winners": 1
+        },
+        {
+          "region": "Île-de-France",
+          "technology": "solar",
+          "volume_auctioned": 2578,
+          "average_price": 0.71,
+          "volume_sold": 2578,
+          "number_of_winners": 2
+        },
+        {
+          "region": "Île-de-France",
+          "technology": "thermal",
+          "volume_auctioned": 15218,
+          "average_price": 0.78,
+          "volume_sold": 15218,
+          "number_of_winners": 2
+        },
+        {
+          "region": "Normandie",
+          "technology": "wind_energy_onshore",
+          "volume_auctioned": 170318,
+          "average_price": 0.75,
+          "volume_sold": 170318,
+          "number_of_winners": 8
+        },
+        {
+          "region": "Normandie",
+          "technology": "hydro",
+          "volume_auctioned": 1800,
+          "average_price": 0.71,
+          "volume_sold": 1800,
+          "number_of_winners": 1
+        },
+        {
+          "region": "Normandie",
+          "technology": "solar",
+          "volume_auctioned": 2645,
+          "average_price": 0.71,
+          "volume_sold": 2645,
+          "number_of_winners": 1
+        },
+        {
+          "region": "Normandie",
+          "technology": "thermal",
+          "volume_auctioned": 31713,
+          "average_price": 0.74,
+          "volume_sold": 31713,
+          "number_of_winners": 1
+        },
+        {
+          "region": "Nouvelle-Aquitaine",
+          "technology": "wind_energy_onshore",
+          "volume_auctioned": 219649,
+          "average_price": 0.75,
+          "volume_sold": 219649,
+          "number_of_winners": 8
+        },
+        {
+          "region": "Nouvelle-Aquitaine",
+          "technology": "hydro",
+          "volume_auctioned": 41209,
+          "average_price": 0.81,
+          "volume_sold": 41209,
+          "number_of_winners": 5
+        },
+        {
+          "region": "Nouvelle-Aquitaine",
+          "technology": "solar",
+          "volume_auctioned": 112309,
+          "average_price": 0.77,
+          "volume_sold": 112309,
+          "number_of_winners": 10
+        },
+        {
+          "region": "Nouvelle-Aquitaine",
+          "technology": "thermal",
+          "volume_auctioned": 65947,
+          "average_price": 0.76,
+          "volume_sold": 65947,
+          "number_of_winners": 3
+        },
+        {
+          "region": "Occitanie",
+          "technology": "wind_energy_onshore",
+          "volume_auctioned": 182546,
+          "average_price": 0.78,
+          "volume_sold": 182546,
+          "number_of_winners": 8
+        },
+        {
+          "region": "Occitanie",
+          "technology": "hydro",
+          "volume_auctioned": 69828,
+          "average_price": 0.72,
+          "volume_sold": 69828,
+          "number_of_winners": 3
+        },
+        {
+          "region": "Occitanie",
+          "technology": "solar",
+          "volume_auctioned": 124245,
+          "average_price": 0.75,
+          "volume_sold": 124245,
+          "number_of_winners": 9
+        },
+        {
+          "region": "Occitanie",
+          "technology": "thermal",
+          "volume_auctioned": 12207,
+          "average_price": 0.71,
+          "volume_sold": 12207,
+          "number_of_winners": 2
+        },
+        {
+          "region": "Pays de la Loire",
+          "technology": "wind_energy_onshore",
+          "volume_auctioned": 177907,
+          "average_price": 0.76,
+          "volume_sold": 177907,
+          "number_of_winners": 5
+        },
+        {
+          "region": "Pays de la Loire",
+          "technology": "hydro",
+          "volume_auctioned": 2068,
+          "average_price": 0.71,
+          "volume_sold": 2068,
+          "number_of_winners": 1
+        },
+        {
+          "region": "Pays de la Loire",
+          "technology": "solar",
+          "volume_auctioned": 11222,
+          "average_price": 0.82,
+          "volume_sold": 11222,
+          "number_of_winners": 3
+        },
+        {
+          "region": "Pays de la Loire",
+          "technology": "thermal",
+          "volume_auctioned": 13950,
+          "average_price": 0.71,
+          "volume_sold": 13950,
+          "number_of_winners": 3
+        },
+        {
+          "region": "Provence-Alpes-Côte d'Azur",
+          "technology": "wind_energy_onshore",
+          "volume_auctioned": 9566,
+          "average_price": 0.72,
+          "volume_sold": 9566,
+          "number_of_winners": 1
+        },
+        {
+          "region": "Provence-Alpes-Côte d'Azur",
+          "technology": "hydro",
+          "volume_auctioned": 24409,
+          "average_price": 0.71,
+          "volume_sold": 24409,
+          "number_of_winners": 2
+        },
+        {
+          "region": "Provence-Alpes-Côte d'Azur",
+          "technology": "solar",
+          "volume_auctioned": 111197,
+          "average_price": 0.74,
+          "volume_sold": 111197,
+          "number_of_winners": 5
+        },
+        {
+          "region": "Provence-Alpes-Côte d'Azur",
+          "technology": "thermal",
+          "volume_auctioned": 12979,
+          "average_price": 0.71,
+          "volume_sold": 12979,
+          "number_of_winners": 1
+        }
+      ],
+      "date": "2024-02-01",
+      "number_of_participants": 29,
+      "md5_hash": "bf1474c092726aa8a1dffd10fd4fbcfc"
+    },
+    {
+      "auctions": [
+        {
+          "region": "Auvergne-Rhône-Alpes",
+          "technology": "wind_energy_onshore",
+          "volume_auctioned": 80473,
+          "average_price": 1.19,
+          "volume_sold": 80473,
+          "number_of_winners": 3
+        },
+        {
+          "region": "Auvergne-Rhône-Alpes",
+          "technology": "hydro",
+          "volume_auctioned": 114486,
+          "average_price": 1.1,
+          "volume_sold": 114486,
+          "number_of_winners": 5
+        },
+        {
+          "region": "Auvergne-Rhône-Alpes",
+          "technology": "solar",
+          "volume_auctioned": 76964,
+          "average_price": 1.16,
+          "volume_sold": 76964,
+          "number_of_winners": 6
+        },
+        {
+          "region": "Auvergne-Rhône-Alpes",
+          "technology": "thermal",
+          "volume_auctioned": 28290,
+          "average_price": 1.1,
+          "volume_sold": 28290,
+          "number_of_winners": 1
+        },
+        {
+          "region": "Bourgogne-Franche-Comté",
+          "technology": "wind_energy_onshore",
+          "volume_auctioned": 164469,
+          "average_price": 1.14,
+          "volume_sold": 164469,
+          "number_of_winners": 6
+        },
+        {
+          "region": "Bourgogne-Franche-Comté",
+          "technology": "hydro",
+          "volume_auctioned": 20343,
+          "average_price": 1.06,
+          "volume_sold": 20343,
+          "number_of_winners": 3
+        },
+        {
+          "region": "Bourgogne-Franche-Comté",
+          "technology": "solar",
+          "volume_auctioned": 23023,
+          "average_price": 1.17,
+          "volume_sold": 23023,
+          "number_of_winners": 2
+        },
+        {
+          "region": "Bourgogne-Franche-Comté",
+          "technology": "thermal",
+          "volume_auctioned": 20088,
+          "average_price": 1.1,
+          "volume_sold": 20088,
+          "number_of_winners": 1
+        },
+        {
+          "region": "Bretagne",
+          "technology": "wind_energy_onshore",
+          "volume_auctioned": 116023,
+          "average_price": 1.05,
+          "volume_sold": 116023,
+          "number_of_winners": 5
+        },
+        {
+          "region": "Bretagne",
+          "technology": "hydro",
+          "volume_auctioned": 3512,
+          "average_price": 1.11,
+          "volume_sold": 3512,
+          "number_of_winners": 1
+        },
+        {
+          "region": "Bretagne",
+          "technology": "solar",
+          "volume_auctioned": 7876,
+          "average_price": 1.07,
+          "volume_sold": 7876,
+          "number_of_winners": 3
+        },
+        {
+          "region": "Bretagne",
+          "technology": "thermal",
+          "volume_auctioned": 19025,
+          "average_price": 1.19,
+          "volume_sold": 19025,
+          "number_of_winners": 2
+        },
+        {
+          "region": "Centre-Val de Loire",
+          "technology": "wind_energy_onshore",
+          "volume_auctioned": 180555,
+          "average_price": 1.21,
+          "volume_sold": 180555,
+          "number_of_winners": 4
+        },
+        {
+          "region": "Centre-Val de Loire",
+          "technology": "hydro",
+          "volume_auctioned": 1538,
+          "average_price": 1.17,
+          "volume_sold": 1538,
+          "number_of_winners": 1
+        },
+        {
+          "region": "Centre-Val de Loire",
+          "technology": "solar",
+          "volume_auctioned": 38028,
+          "average_price": 1.08,
+          "volume_sold": 38028,
+          "number_of_winners": 2
+        },
+        {
+          "region": "Centre-Val de Loire",
+          "technology": "thermal",
+          "volume_auctioned": 15286,
+          "average_price": 1.13,
+          "volume_sold": 15286,
+          "number_of_winners": 2
+        },
+        {
+          "region": "Grand Est",
+          "technology": "wind_energy_onshore",
+          "volume_auctioned": 549756,
+          "average_price": 1.07,
+          "volume_sold": 549756,
+          "number_of_winners": 7
+        },
+        {
+          "region": "Grand Est",
+          "technology": "hydro",
+          "volume_auctioned": 25532,
+          "average_price": 1.14,
+          "volume_sold": 25532,
+          "number_of_winners": 1
+        },
+        {
+          "region": "Grand Est",
+          "technology": "solar",
+          "volume_auctioned": 37045,
+          "average_price": 1.04,
+          "volume_sold": 37045,
+          "number_of_winners": 2
+        },
+        {
+          "region": "Grand Est",
+          "technology": "thermal",
+          "volume_auctioned": 43607,
+          "average_price": 1.05,
+          "volume_sold": 43607,
+          "number_of_winners": 2
+        },
+        {
+          "region": "Haut-de-France",
+          "technology": "wind_energy_onshore",
+          "volume_auctioned": 799098,
+          "average_price": 1.14,
+          "volume_sold": 799098,
+          "number_of_winners": 10
+        },
+        {
+          "region": "Haut-de-France",
+          "technology": "hydro",
+          "volume_auctioned": 924,
+          "average_price": 1.17,
+          "volume_sold": 924,
+          "number_of_winners": 1
+        },
+        {
+          "region": "Haut-de-France",
+          "technology": "solar",
+          "volume_auctioned": 17332,
+          "average_price": 1.18,
+          "volume_sold": 17332,
+          "number_of_winners": 2
+        },
+        {
+          "region": "Haut-de-France",
+          "technology": "thermal",
+          "volume_auctioned": 30113,
+          "average_price": 1.15,
+          "volume_sold": 30113,
+          "number_of_winners": 1
+        },
+        {
+          "region": "Île-de-France",
+          "technology": "wind_energy_onshore",
+          "volume_auctioned": 23185,
+          "average_price": 1.26,
+          "volume_sold": 23185,
+          "number_of_winners": 4
+        },
+        {
+          "region": "Île-de-France",
+          "technology": "hydro",
+          "volume_auctioned": 286,
+          "average_price": 1.14,
+          "volume_sold": 286,
+          "number_of_winners": 1
+        },
+        {
+          "region": "Île-de-France",
+          "technology": "solar",
+          "volume_auctioned": 6948,
+          "average_price": 1.16,
+          "volume_sold": 6948,
+          "number_of_winners": 1
+        },
+        {
+          "region": "Île-de-France",
+          "technology": "thermal",
+          "volume_auctioned": 15502,
+          "average_price": 1.12,
+          "volume_sold": 15502,
+          "number_of_winners": 3
+        },
+        {
+          "region": "Normandie",
+          "technology": "wind_energy_onshore",
+          "volume_auctioned": 120836,
+          "average_price": 1.07,
+          "volume_sold": 120836,
+          "number_of_winners": 4
+        },
+        {
+          "region": "Normandie",
+          "technology": "hydro",
+          "volume_auctioned": 1742,
+          "average_price": 1.17,
+          "volume_sold": 1742,
+          "number_of_winners": 1
+        },
+        {
+          "region": "Normandie",
+          "technology": "solar",
+          "volume_auctioned": 7103,
+          "average_price": 1.04,
+          "volume_sold": 7103,
+          "number_of_winners": 1
+        },
+        {
+          "region": "Normandie",
+          "technology": "thermal",
+          "volume_auctioned": 32457,
+          "average_price": 1.11,
+          "volume_sold": 32457,
+          "number_of_winners": 2
+        },
+        {
+          "region": "Nouvelle-Aquitaine",
+          "technology": "wind_energy_onshore",
+          "volume_auctioned": 180956,
+          "average_price": 1.2,
+          "volume_sold": 180956,
+          "number_of_winners": 4
+        },
+        {
+          "region": "Nouvelle-Aquitaine",
+          "technology": "hydro",
+          "volume_auctioned": 51210,
+          "average_price": 1.1,
+          "volume_sold": 51210,
+          "number_of_winners": 5
+        },
+        {
+          "region": "Nouvelle-Aquitaine",
+          "technology": "solar",
+          "volume_auctioned": 223270,
+          "average_price": 1.14,
+          "volume_sold": 223270,
+          "number_of_winners": 5
+        },
+        {
+          "region": "Nouvelle-Aquitaine",
+          "technology": "thermal",
+          "volume_auctioned": 67522,
+          "average_price": 1.1,
+          "volume_sold": 67522,
+          "number_of_winners": 3
+        },
+        {
+          "region": "Occitanie",
+          "technology": "wind_energy_onshore",
+          "volume_auctioned": 181833,
+          "average_price": 1.12,
+          "volume_sold": 181833,
+          "number_of_winners": 3
+        },
+        {
+          "region": "Occitanie",
+          "technology": "hydro",
+          "volume_auctioned": 95836,
+          "average_price": 1.12,
+          "volume_sold": 95836,
+          "number_of_winners": 3
+        },
+        {
+          "region": "Occitanie",
+          "technology": "solar",
+          "volume_auctioned": 195233,
+          "average_price": 1.12,
+          "volume_sold": 195233,
+          "number_of_winners": 4
+        },
+        {
+          "region": "Occitanie",
+          "technology": "thermal",
+          "volume_auctioned": 13330,
+          "average_price": 1.17,
+          "volume_sold": 13330,
+          "number_of_winners": 1
+        },
+        {
+          "region": "Pays de la Loire",
+          "technology": "wind_energy_onshore",
+          "volume_auctioned": 143220,
+          "average_price": 1.18,
+          "volume_sold": 143220,
+          "number_of_winners": 6
+        },
+        {
+          "region": "Pays de la Loire",
+          "technology": "hydro",
+          "volume_auctioned": 2642,
+          "average_price": 1.17,
+          "volume_sold": 2642,
+          "number_of_winners": 1
+        },
+        {
+          "region": "Pays de la Loire",
+          "technology": "solar",
+          "volume_auctioned": 25839,
+          "average_price": 1.08,
+          "volume_sold": 25838,
+          "number_of_winners": 4
+        },
+        {
+          "region": "Pays de la Loire",
+          "technology": "thermal",
+          "volume_auctioned": 14813,
+          "average_price": 1.11,
+          "volume_sold": 14813,
+          "number_of_winners": 1
+        },
+        {
+          "region": "Provence-Alpes-Côte d'Azur",
+          "technology": "wind_energy_onshore",
+          "volume_auctioned": 18792,
+          "average_price": 1.17,
+          "volume_sold": 18792,
+          "number_of_winners": 2
+        },
+        {
+          "region": "Provence-Alpes-Côte d'Azur",
+          "technology": "hydro",
+          "volume_auctioned": 25419,
+          "average_price": 1.14,
+          "volume_sold": 25419,
+          "number_of_winners": 3
+        },
+        {
+          "region": "Provence-Alpes-Côte d'Azur",
+          "technology": "solar",
+          "volume_auctioned": 154254,
+          "average_price": 1.12,
+          "volume_sold": 154254,
+          "number_of_winners": 8
+        },
+        {
+          "region": "Provence-Alpes-Côte d'Azur",
+          "technology": "thermal",
+          "volume_auctioned": 16312,
+          "average_price": 1.19,
+          "volume_sold": 16312,
+          "number_of_winners": 1
+        }
+      ],
+      "date": "2024-03-01",
+      "number_of_participants": 33,
+      "md5_hash": "c5d10c8282c6a000fbe1e4863af0c546"
+    },
+    {
+      "auctions": [
+        {
+          "region": "Auvergne-Rhône-Alpes",
+          "technology": "wind_energy_onshore",
+          "volume_auctioned": 87018,
+          "average_price": 0.91,
+          "volume_sold": 87018,
+          "number_of_winners": 6
+        },
+        {
+          "region": "Auvergne-Rhône-Alpes",
+          "technology": "hydro",
+          "volume_auctioned": 112623,
+          "average_price": 0.83,
+          "volume_sold": 112623,
+          "number_of_winners": 3
+        },
+        {
+          "region": "Auvergne-Rhône-Alpes",
+          "technology": "solar",
+          "volume_auctioned": 85919,
+          "average_price": 0.84,
+          "volume_sold": 85919,
+          "number_of_winners": 5
+        },
+        {
+          "region": "Auvergne-Rhône-Alpes",
+          "technology": "thermal",
+          "volume_auctioned": 22912,
+          "average_price": 0.83,
+          "volume_sold": 22912,
+          "number_of_winners": 2
+        },
+        {
+          "region": "Bourgogne-Franche-Comté",
+          "technology": "wind_energy_onshore",
+          "volume_auctioned": 162613,
+          "average_price": 0.86,
+          "volume_sold": 162613,
+          "number_of_winners": 8
+        },
+        {
+          "region": "Bourgogne-Franche-Comté",
+          "technology": "hydro",
+          "volume_auctioned": 20695,
+          "average_price": 0.83,
+          "volume_sold": 20695,
+          "number_of_winners": 3
+        },
+        {
+          "region": "Bourgogne-Franche-Comté",
+          "technology": "solar",
+          "volume_auctioned": 25714,
+          "average_price": 0.86,
+          "volume_sold": 25714,
+          "number_of_winners": 4
+        },
+        {
+          "region": "Bourgogne-Franche-Comté",
+          "technology": "thermal",
+          "volume_auctioned": 19467,
+          "average_price": 0.83,
+          "volume_sold": 19467,
+          "number_of_winners": 1
+        },
+        {
+          "region": "Bretagne",
+          "technology": "wind_energy_onshore",
+          "volume_auctioned": 118699,
+          "average_price": 0.87,
+          "volume_sold": 118699,
+          "number_of_winners": 5
+        },
+        {
+          "region": "Bretagne",
+          "technology": "hydro",
+          "volume_auctioned": 3393,
+          "average_price": 0.82,
+          "volume_sold": 3393,
+          "number_of_winners": 2
+        },
+        {
+          "region": "Bretagne",
+          "technology": "solar",
+          "volume_auctioned": 10375,
+          "average_price": 0.86,
+          "volume_sold": 10375,
+          "number_of_winners": 3
+        },
+        {
+          "region": "Bretagne",
+          "technology": "thermal",
+          "volume_auctioned": 18878,
+          "average_price": 0.83,
+          "volume_sold": 18878,
+          "number_of_winners": 1
+        },
+        {
+          "region": "Centre-Val de Loire",
+          "technology": "wind_energy_onshore",
+          "volume_auctioned": 167585,
+          "average_price": 0.84,
+          "volume_sold": 167585,
+          "number_of_winners": 7
+        },
+        {
+          "region": "Centre-Val de Loire",
+          "technology": "hydro",
+          "volume_auctioned": 1471,
+          "average_price": 0.81,
+          "volume_sold": 1471,
+          "number_of_winners": 1
+        },
+        {
+          "region": "Centre-Val de Loire",
+          "technology": "solar",
+          "volume_auctioned": 37915,
+          "average_price": 0.84,
+          "volume_sold": 37915,
+          "number_of_winners": 5
+        },
+        {
+          "region": "Centre-Val de Loire",
+          "technology": "thermal",
+          "volume_auctioned": 14054,
+          "average_price": 0.83,
+          "volume_sold": 14054,
+          "number_of_winners": 1
+        },
+        {
+          "region": "Grand Est",
+          "technology": "wind_energy_onshore",
+          "volume_auctioned": 550868,
+          "average_price": 0.85,
+          "volume_sold": 550868,
+          "number_of_winners": 10
+        },
+        {
+          "region": "Grand Est",
+          "technology": "hydro",
+          "volume_auctioned": 23831,
+          "average_price": 0.8,
+          "volume_sold": 23831,
+          "number_of_winners": 4
+        },
+        {
+          "region": "Grand Est",
+          "technology": "solar",
+          "volume_auctioned": 44910,
+          "average_price": 0.87,
+          "volume_sold": 44910,
+          "number_of_winners": 5
+        },
+        {
+          "region": "Grand Est",
+          "technology": "thermal",
+          "volume_auctioned": 40472,
+          "average_price": 0.82,
+          "volume_sold": 40472,
+          "number_of_winners": 3
+        },
+        {
+          "region": "Haut-de-France",
+          "technology": "wind_energy_onshore",
+          "volume_auctioned": 874918,
+          "average_price": 0.82,
+          "volume_sold": 874918,
+          "number_of_winners": 11
+        },
+        {
+          "region": "Haut-de-France",
+          "technology": "hydro",
+          "volume_auctioned": 968,
+          "average_price": 0.81,
+          "volume_sold": 968,
+          "number_of_winners": 1
+        },
+        {
+          "region": "Haut-de-France",
+          "technology": "solar",
+          "volume_auctioned": 18747,
+          "average_price": 0.81,
+          "volume_sold": 18747,
+          "number_of_winners": 4
+        },
+        {
+          "region": "Haut-de-France",
+          "technology": "thermal",
+          "volume_auctioned": 28643,
+          "average_price": 0.81,
+          "volume_sold": 28643,
+          "number_of_winners": 3
+        },
+        {
+          "region": "Île-de-France",
+          "technology": "wind_energy_onshore",
+          "volume_auctioned": 23868,
+          "average_price": 0.91,
+          "volume_sold": 23868,
+          "number_of_winners": 3
+        },
+        {
+          "region": "Île-de-France",
+          "technology": "hydro",
+          "volume_auctioned": 504,
+          "average_price": 0.81,
+          "volume_sold": 504,
+          "number_of_winners": 2
+        },
+        {
+          "region": "Île-de-France",
+          "technology": "solar",
+          "volume_auctioned": 7133,
+          "average_price": 0.78,
+          "volume_sold": 7133,
+          "number_of_winners": 4
+        },
+        {
+          "region": "Île-de-France",
+          "technology": "thermal",
+          "volume_auctioned": 17733,
+          "average_price": 0.79,
+          "volume_sold": 17733,
+          "number_of_winners": 4
+        },
+        {
+          "region": "Normandie",
+          "technology": "wind_energy_onshore",
+          "volume_auctioned": 125239,
+          "average_price": 0.81,
+          "volume_sold": 125239,
+          "number_of_winners": 7
+        },
+        {
+          "region": "Normandie",
+          "technology": "hydro",
+          "volume_auctioned": 1561,
+          "average_price": 0.81,
+          "volume_sold": 1561,
+          "number_of_winners": 1
+        },
+        {
+          "region": "Normandie",
+          "technology": "solar",
+          "volume_auctioned": 8612,
+          "average_price": 0.85,
+          "volume_sold": 8612,
+          "number_of_winners": 2
+        },
+        {
+          "region": "Normandie",
+          "technology": "thermal",
+          "volume_auctioned": 32136,
+          "average_price": 0.79,
+          "volume_sold": 32136,
+          "number_of_winners": 2
+        },
+        {
+          "region": "Nouvelle-Aquitaine",
+          "technology": "wind_energy_onshore",
+          "volume_auctioned": 161477,
+          "average_price": 0.81,
+          "volume_sold": 161477,
+          "number_of_winners": 7
+        },
+        {
+          "region": "Nouvelle-Aquitaine",
+          "technology": "hydro",
+          "volume_auctioned": 45191,
+          "average_price": 0.81,
+          "volume_sold": 45191,
+          "number_of_winners": 4
+        },
+        {
+          "region": "Nouvelle-Aquitaine",
+          "technology": "solar",
+          "volume_auctioned": 273906,
+          "average_price": 0.82,
+          "volume_sold": 273906,
+          "number_of_winners": 11
+        },
+        {
+          "region": "Nouvelle-Aquitaine",
+          "technology": "thermal",
+          "volume_auctioned": 61049,
+          "average_price": 0.79,
+          "volume_sold": 61049,
+          "number_of_winners": 2
+        },
+        {
+          "region": "Occitanie",
+          "technology": "wind_energy_onshore",
+          "volume_auctioned": 190246,
+          "average_price": 0.79,
+          "volume_sold": 190245,
+          "number_of_winners": 6
+        },
+        {
+          "region": "Occitanie",
+          "technology": "hydro",
+          "volume_auctioned": 80342,
+          "average_price": 0.84,
+          "volume_sold": 80342,
+          "number_of_winners": 4
+        },
+        {
+          "region": "Occitanie",
+          "technology": "solar",
+          "volume_auctioned": 218050,
+          "average_price": 0.81,
+          "volume_sold": 218050,
+          "number_of_winners": 7
+        },
+        {
+          "region": "Occitanie",
+          "technology": "thermal",
+          "volume_auctioned": 11664,
+          "average_price": 0.79,
+          "volume_sold": 11664,
+          "number_of_winners": 4
+        },
+        {
+          "region": "Pays de la Loire",
+          "technology": "wind_energy_onshore",
+          "volume_auctioned": 132867,
+          "average_price": 0.81,
+          "volume_sold": 132867,
+          "number_of_winners": 11
+        },
+        {
+          "region": "Pays de la Loire",
+          "technology": "hydro",
+          "volume_auctioned": 2513,
+          "average_price": 0.78,
+          "volume_sold": 2513,
+          "number_of_winners": 1
+        },
+        {
+          "region": "Pays de la Loire",
+          "technology": "solar",
+          "volume_auctioned": 31186,
+          "average_price": 0.82,
+          "volume_sold": 31186,
+          "number_of_winners": 4
+        },
+        {
+          "region": "Pays de la Loire",
+          "technology": "thermal",
+          "volume_auctioned": 14393,
+          "average_price": 0.85,
+          "volume_sold": 14393,
+          "number_of_winners": 2
+        },
+        {
+          "region": "Provence-Alpes-Côte d'Azur",
+          "technology": "wind_energy_onshore",
+          "volume_auctioned": 17824,
+          "average_price": 0.84,
+          "volume_sold": 17824,
+          "number_of_winners": 3
+        },
+        {
+          "region": "Provence-Alpes-Côte d'Azur",
+          "technology": "hydro",
+          "volume_auctioned": 30508,
+          "average_price": 0.8,
+          "volume_sold": 30508,
+          "number_of_winners": 4
+        },
+        {
+          "region": "Provence-Alpes-Côte d'Azur",
+          "technology": "solar",
+          "volume_auctioned": 185049,
+          "average_price": 0.8,
+          "volume_sold": 185049,
+          "number_of_winners": 10
+        },
+        {
+          "region": "Provence-Alpes-Côte d'Azur",
+          "technology": "thermal",
+          "volume_auctioned": 16110,
+          "average_price": 0.78,
+          "volume_sold": 16110,
+          "number_of_winners": 2
+        }
+      ],
+      "date": "2024-04-01",
+      "number_of_participants": 27,
+      "md5_hash": "dec5b9ab7c6347c8644de46e48ec5946"
+    },
+    {
+      "auctions": [
+        {
+          "region": "Auvergne-Rhône-Alpes",
+          "technology": "wind_energy_onshore",
+          "volume_auctioned": 39587,
+          "average_price": 0.81,
+          "volume_sold": 39587,
+          "number_of_winners": 3
+        },
+        {
+          "region": "Auvergne-Rhône-Alpes",
+          "technology": "hydro",
+          "volume_auctioned": 132405,
+          "average_price": 0.83,
+          "volume_sold": 132405,
+          "number_of_winners": 3
+        },
+        {
+          "region": "Auvergne-Rhône-Alpes",
+          "technology": "solar",
+          "volume_auctioned": 93681,
+          "average_price": 0.85,
+          "volume_sold": 93681,
+          "number_of_winners": 10
+        },
+        {
+          "region": "Auvergne-Rhône-Alpes",
+          "technology": "thermal",
+          "volume_auctioned": 30209,
+          "average_price": 0.85,
+          "volume_sold": 30209,
+          "number_of_winners": 2
+        },
+        {
+          "region": "Bourgogne-Franche-Comté",
+          "technology": "wind_energy_onshore",
+          "volume_auctioned": 89001,
+          "average_price": 0.94,
+          "volume_sold": 89001,
+          "number_of_winners": 6
+        },
+        {
+          "region": "Bourgogne-Franche-Comté",
+          "technology": "hydro",
+          "volume_auctioned": 20893,
+          "average_price": 0.81,
+          "volume_sold": 20893,
+          "number_of_winners": 1
+        },
+        {
+          "region": "Bourgogne-Franche-Comté",
+          "technology": "solar",
+          "volume_auctioned": 30813,
+          "average_price": 0.85,
+          "volume_sold": 30813,
+          "number_of_winners": 3
+        },
+        {
+          "region": "Bourgogne-Franche-Comté",
+          "technology": "thermal",
+          "volume_auctioned": 19677,
+          "average_price": 0.85,
+          "volume_sold": 19677,
+          "number_of_winners": 1
+        },
+        {
+          "region": "Bretagne",
+          "technology": "wind_energy_onshore",
+          "volume_auctioned": 66887,
+          "average_price": 0.93,
+          "volume_sold": 66887,
+          "number_of_winners": 7
+        },
+        {
+          "region": "Bretagne",
+          "technology": "hydro",
+          "volume_auctioned": 1766,
+          "average_price": 0.83,
+          "volume_sold": 1766,
+          "number_of_winners": 1
+        },
+        {
+          "region": "Bretagne",
+          "technology": "solar",
+          "volume_auctioned": 13008,
+          "average_price": 0.91,
+          "volume_sold": 13008,
+          "number_of_winners": 4
+        },
+        {
+          "region": "Bretagne",
+          "technology": "thermal",
+          "volume_auctioned": 20244,
+          "average_price": 0.85,
+          "volume_sold": 20244,
+          "number_of_winners": 2
+        },
+        {
+          "region": "Centre-Val de Loire",
+          "technology": "wind_energy_onshore",
+          "volume_auctioned": 109531,
+          "average_price": 0.88,
+          "volume_sold": 109531,
+          "number_of_winners": 6
+        },
+        {
+          "region": "Centre-Val de Loire",
+          "technology": "hydro",
+          "volume_auctioned": 1564,
+          "average_price": 0.83,
+          "volume_sold": 1564,
+          "number_of_winners": 1
+        },
+        {
+          "region": "Centre-Val de Loire",
+          "technology": "solar",
+          "volume_auctioned": 43836,
+          "average_price": 0.87,
+          "volume_sold": 43836,
+          "number_of_winners": 5
+        },
+        {
+          "region": "Centre-Val de Loire",
+          "technology": "thermal",
+          "volume_auctioned": 16151,
+          "average_price": 0.85,
+          "volume_sold": 16151,
+          "number_of_winners": 1
+        },
+        {
+          "region": "Grand Est",
+          "technology": "wind_energy_onshore",
+          "volume_auctioned": 266781,
+          "average_price": 0.85,
+          "volume_sold": 266781,
+          "number_of_winners": 5
+        },
+        {
+          "region": "Grand Est",
+          "technology": "hydro",
+          "volume_auctioned": 25294,
+          "average_price": 0.83,
+          "volume_sold": 25294,
+          "number_of_winners": 4
+        },
+        {
+          "region": "Grand Est",
+          "technology": "solar",
+          "volume_auctioned": 52773,
+          "average_price": 0.85,
+          "volume_sold": 52773,
+          "number_of_winners": 4
+        },
+        {
+          "region": "Grand Est",
+          "technology": "thermal",
+          "volume_auctioned": 46322,
+          "average_price": 0.84,
+          "volume_sold": 46322,
+          "number_of_winners": 2
+        },
+        {
+          "region": "Haut-de-France",
+          "technology": "wind_energy_onshore",
+          "volume_auctioned": 383860,
+          "average_price": 0.85,
+          "volume_sold": 383860,
+          "number_of_winners": 8
+        },
+        {
+          "region": "Haut-de-France",
+          "technology": "hydro",
+          "volume_auctioned": 921,
+          "average_price": 0.83,
+          "volume_sold": 921,
+          "number_of_winners": 1
+        },
+        {
+          "region": "Haut-de-France",
+          "technology": "solar",
+          "volume_auctioned": 21581,
+          "average_price": 0.84,
+          "volume_sold": 21581,
+          "number_of_winners": 3
+        },
+        {
+          "region": "Haut-de-France",
+          "technology": "thermal",
+          "volume_auctioned": 33955,
+          "average_price": 0.84,
+          "volume_sold": 33955,
+          "number_of_winners": 2
+        },
+        {
+          "region": "Île-de-France",
+          "technology": "wind_energy_onshore",
+          "volume_auctioned": 13729,
+          "average_price": 1.0,
+          "volume_sold": 13729,
+          "number_of_winners": 3
+        },
+        {
+          "region": "Île-de-France",
+          "technology": "hydro",
+          "volume_auctioned": 930,
+          "average_price": 0.83,
+          "volume_sold": 930,
+          "number_of_winners": 1
+        },
+        {
+          "region": "Île-de-France",
+          "technology": "solar",
+          "volume_auctioned": 8908,
+          "average_price": 0.85,
+          "volume_sold": 8908,
+          "number_of_winners": 3
+        },
+        {
+          "region": "Île-de-France",
+          "technology": "thermal",
+          "volume_auctioned": 17166,
+          "average_price": 0.85,
+          "volume_sold": 17165,
+          "number_of_winners": 2
+        },
+        {
+          "region": "Normandie",
+          "technology": "wind_energy_onshore",
+          "volume_auctioned": 56646,
+          "average_price": 0.83,
+          "volume_sold": 56646,
+          "number_of_winners": 4
+        },
+        {
+          "region": "Normandie",
+          "technology": "hydro",
+          "volume_auctioned": 1776,
+          "average_price": 0.83,
+          "volume_sold": 1776,
+          "number_of_winners": 1
+        },
+        {
+          "region": "Normandie",
+          "technology": "solar",
+          "volume_auctioned": 10612,
+          "average_price": 0.83,
+          "volume_sold": 10612,
+          "number_of_winners": 4
+        },
+        {
+          "region": "Normandie",
+          "technology": "thermal",
+          "volume_auctioned": 32778,
+          "average_price": 0.83,
+          "volume_sold": 32778,
+          "number_of_winners": 3
+        },
+        {
+          "region": "Nouvelle-Aquitaine",
+          "technology": "wind_energy_onshore",
+          "volume_auctioned": 123147,
+          "average_price": 0.9,
+          "volume_sold": 123147,
+          "number_of_winners": 5
+        },
+        {
+          "region": "Nouvelle-Aquitaine",
+          "technology": "hydro",
+          "volume_auctioned": 49234,
+          "average_price": 0.83,
+          "volume_sold": 49234,
+          "number_of_winners": 3
+        },
+        {
+          "region": "Nouvelle-Aquitaine",
+          "technology": "solar",
+          "volume_auctioned": 279879,
+          "average_price": 0.85,
+          "volume_sold": 279879,
+          "number_of_winners": 10
+        },
+        {
+          "region": "Nouvelle-Aquitaine",
+          "technology": "thermal",
+          "volume_auctioned": 60673,
+          "average_price": 0.83,
+          "volume_sold": 60673,
+          "number_of_winners": 3
+        },
+        {
+          "region": "Occitanie",
+          "technology": "wind_energy_onshore",
+          "volume_auctioned": 108529,
+          "average_price": 0.83,
+          "volume_sold": 108529,
+          "number_of_winners": 7
+        },
+        {
+          "region": "Occitanie",
+          "technology": "hydro",
+          "volume_auctioned": 100385,
+          "average_price": 0.82,
+          "volume_sold": 100385,
+          "number_of_winners": 4
+        },
+        {
+          "region": "Occitanie",
+          "technology": "solar",
+          "volume_auctioned": 236483,
+          "average_price": 0.83,
+          "volume_sold": 236483,
+          "number_of_winners": 9
+        },
+        {
+          "region": "Occitanie",
+          "technology": "thermal",
+          "volume_auctioned": 13592,
+          "average_price": 0.84,
+          "volume_sold": 13592,
+          "number_of_winners": 2
+        },
+        {
+          "region": "Pays de la Loire",
+          "technology": "wind_energy_onshore",
+          "volume_auctioned": 90922,
+          "average_price": 0.84,
+          "volume_sold": 90922,
+          "number_of_winners": 7
+        },
+        {
+          "region": "Pays de la Loire",
+          "technology": "hydro",
+          "volume_auctioned": 2638,
+          "average_price": 0.83,
+          "volume_sold": 2638,
+          "number_of_winners": 1
+        },
+        {
+          "region": "Pays de la Loire",
+          "technology": "solar",
+          "volume_auctioned": 34789,
+          "average_price": 0.84,
+          "volume_sold": 34789,
+          "number_of_winners": 4
+        },
+        {
+          "region": "Pays de la Loire",
+          "technology": "thermal",
+          "volume_auctioned": 15792,
+          "average_price": 0.83,
+          "volume_sold": 15792,
+          "number_of_winners": 1
+        },
+        {
+          "region": "Provence-Alpes-Côte d'Azur",
+          "technology": "wind_energy_onshore",
+          "volume_auctioned": 9619,
+          "average_price": 0.81,
+          "volume_sold": 9619,
+          "number_of_winners": 3
+        },
+        {
+          "region": "Provence-Alpes-Côte d'Azur",
+          "technology": "hydro",
+          "volume_auctioned": 33737,
+          "average_price": 0.82,
+          "volume_sold": 33737,
+          "number_of_winners": 5
+        },
+        {
+          "region": "Provence-Alpes-Côte d'Azur",
+          "technology": "solar",
+          "volume_auctioned": 195658,
+          "average_price": 0.82,
+          "volume_sold": 195658,
+          "number_of_winners": 7
+        },
+        {
+          "region": "Provence-Alpes-Côte d'Azur",
+          "technology": "thermal",
+          "volume_auctioned": 16643,
+          "average_price": 0.81,
+          "volume_sold": 16643,
+          "number_of_winners": 3
+        }
+      ],
+      "date": "2024-05-01",
+      "number_of_participants": 33,
+      "md5_hash": "84b043ccfd442beafc4a6e401cf4f9d0"
+    },
+    {
+      "auctions": [
+        {
+          "region": "Auvergne-Rhône-Alpes",
+          "technology": "wind_energy_onshore",
+          "volume_auctioned": 45814,
+          "average_price": 0.65,
+          "volume_sold": 45814,
+          "number_of_winners": 40
+        },
+        {
+          "region": "Auvergne-Rhône-Alpes",
+          "technology": "hydro",
+          "volume_auctioned": 110919,
+          "average_price": 0.64,
+          "volume_sold": 110919,
+          "number_of_winners": 30
+        },
+        {
+          "region": "Auvergne-Rhône-Alpes",
+          "technology": "solar",
+          "volume_auctioned": 98895,
+          "average_price": 0.67,
+          "volume_sold": 98895,
+          "number_of_winners": 90
+        },
+        {
+          "region": "Auvergne-Rhône-Alpes",
+          "technology": "thermal",
+          "volume_auctioned": 23424,
+          "average_price": 0.63,
+          "volume_sold": 23424,
+          "number_of_winners": 20
+        },
+        {
+          "region": "Bourgogne-Franche-Comté",
+          "technology": "wind_energy_onshore",
+          "volume_auctioned": 89974,
+          "average_price": 0.65,
+          "volume_sold": 89974,
+          "number_of_winners": 50
+        },
+        {
+          "region": "Bourgogne-Franche-Comté",
+          "technology": "hydro",
+          "volume_auctioned": 17055,
+          "average_price": 0.63,
+          "volume_sold": 17055,
+          "number_of_winners": 20
+        },
+        {
+          "region": "Bourgogne-Franche-Comté",
+          "technology": "solar",
+          "volume_auctioned": 32217,
+          "average_price": 0.68,
+          "volume_sold": 32217,
+          "number_of_winners": 30
+        },
+        {
+          "region": "Bourgogne-Franche-Comté",
+          "technology": "thermal",
+          "volume_auctioned": 17061,
+          "average_price": 0.61,
+          "volume_sold": 17061,
+          "number_of_winners": 20
+        },
+        {
+          "region": "Bretagne",
+          "technology": "wind_energy_onshore",
+          "volume_auctioned": 53269,
+          "average_price": 0.64,
+          "volume_sold": 53269,
+          "number_of_winners": 50
+        },
+        {
+          "region": "Bretagne",
+          "technology": "hydro",
+          "volume_auctioned": 438,
+          "average_price": 0.61,
+          "volume_sold": 438,
+          "number_of_winners": 20
+        },
+        {
+          "region": "Bretagne",
+          "technology": "solar",
+          "volume_auctioned": 13842,
+          "average_price": 0.66,
+          "volume_sold": 13842,
+          "number_of_winners": 40
+        },
+        {
+          "region": "Bretagne",
+          "technology": "thermal",
+          "volume_auctioned": 19501,
+          "average_price": 0.63,
+          "volume_sold": 19501,
+          "number_of_winners": 20
+        },
+        {
+          "region": "Centre-Val de Loire",
+          "technology": "wind_energy_onshore",
+          "volume_auctioned": 97353,
+          "average_price": 0.64,
+          "volume_sold": 97353,
+          "number_of_winners": 60
+        },
+        {
+          "region": "Centre-Val de Loire",
+          "technology": "hydro",
+          "volume_auctioned": 1341,
+          "average_price": 0.62,
+          "volume_sold": 1341,
+          "number_of_winners": 30
+        },
+        {
+          "region": "Centre-Val de Loire",
+          "technology": "solar",
+          "volume_auctioned": 49162,
+          "average_price": 0.65,
+          "volume_sold": 49162,
+          "number_of_winners": 50
+        },
+        {
+          "region": "Centre-Val de Loire",
+          "technology": "thermal",
+          "volume_auctioned": 12635,
+          "average_price": 0.61,
+          "volume_sold": 12635,
+          "number_of_winners": 20
+        },
+        {
+          "region": "Grand Est",
+          "technology": "wind_energy_onshore",
+          "volume_auctioned": 259867,
+          "average_price": 0.67,
+          "volume_sold": 259867,
+          "number_of_winners": 80
+        },
+        {
+          "region": "Grand Est",
+          "technology": "hydro",
+          "volume_auctioned": 19536,
+          "average_price": 0.63,
+          "volume_sold": 19536,
+          "number_of_winners": 30
+        },
+        {
+          "region": "Grand Est",
+          "technology": "solar",
+          "volume_auctioned": 59663,
+          "average_price": 0.65,
+          "volume_sold": 59663,
+          "number_of_winners": 50
+        },
+        {
+          "region": "Grand Est",
+          "technology": "thermal",
+          "volume_auctioned": 45939,
+          "average_price": 0.63,
+          "volume_sold": 45939,
+          "number_of_winners": 20
+        },
+        {
+          "region": "Haut-de-France",
+          "technology": "wind_energy_onshore",
+          "volume_auctioned": 397309,
+          "average_price": 0.65,
+          "volume_sold": 397309,
+          "number_of_winners": 110
+        },
+        {
+          "region": "Haut-de-France",
+          "technology": "hydro",
+          "volume_auctioned": 374,
+          "average_price": 0.61,
+          "volume_sold": 374,
+          "number_of_winners": 20
+        },
+        {
+          "region": "Haut-de-France",
+          "technology": "solar",
+          "volume_auctioned": 24289,
+          "average_price": 0.64,
+          "volume_sold": 24289,
+          "number_of_winners": 30
+        },
+        {
+          "region": "Haut-de-France",
+          "technology": "thermal",
+          "volume_auctioned": 30658,
+          "average_price": 0.63,
+          "volume_sold": 30658,
+          "number_of_winners": 20
+        },
+        {
+          "region": "Île-de-France",
+          "technology": "wind_energy_onshore",
+          "volume_auctioned": 13261,
+          "average_price": 0.7,
+          "volume_sold": 13261,
+          "number_of_winners": 30
+        },
+        {
+          "region": "Île-de-France",
+          "technology": "hydro",
+          "volume_auctioned": 1064,
+          "average_price": 0.61,
+          "volume_sold": 1064,
+          "number_of_winners": 20
+        },
+        {
+          "region": "Île-de-France",
+          "technology": "solar",
+          "volume_auctioned": 9807,
+          "average_price": 0.62,
+          "volume_sold": 9807,
+          "number_of_winners": 40
+        },
+        {
+          "region": "Île-de-France",
+          "technology": "thermal",
+          "volume_auctioned": 13370,
+          "average_price": 0.61,
+          "volume_sold": 13370,
+          "number_of_winners": 30
+        },
+        {
+          "region": "Normandie",
+          "technology": "wind_energy_onshore",
+          "volume_auctioned": 49967,
+          "average_price": 0.63,
+          "volume_sold": 49967,
+          "number_of_winners": 40
+        },
+        {
+          "region": "Normandie",
+          "technology": "hydro",
+          "volume_auctioned": 1653,
+          "average_price": 0.61,
+          "volume_sold": 1653,
+          "number_of_winners": 40
+        },
+        {
+          "region": "Normandie",
+          "technology": "solar",
+          "volume_auctioned": 11725,
+          "average_price": 0.61,
+          "volume_sold": 11725,
+          "number_of_winners": 20
+        },
+        {
+          "region": "Normandie",
+          "technology": "thermal",
+          "volume_auctioned": 31919,
+          "average_price": 0.61,
+          "volume_sold": 31919,
+          "number_of_winners": 30
+        },
+        {
+          "region": "Nouvelle-Aquitaine",
+          "technology": "wind_energy_onshore",
+          "volume_auctioned": 96239,
+          "average_price": 0.62,
+          "volume_sold": 96239,
+          "number_of_winners": 40
+        },
+        {
+          "region": "Nouvelle-Aquitaine",
+          "technology": "hydro",
+          "volume_auctioned": 39681,
+          "average_price": 0.62,
+          "volume_sold": 39681,
+          "number_of_winners": 50
+        },
+        {
+          "region": "Nouvelle-Aquitaine",
+          "technology": "solar",
+          "volume_auctioned": 291319,
+          "average_price": 0.63,
+          "volume_sold": 291319,
+          "number_of_winners": 80
+        },
+        {
+          "region": "Nouvelle-Aquitaine",
+          "technology": "thermal",
+          "volume_auctioned": 59057,
+          "average_price": 0.62,
+          "volume_sold": 59057,
+          "number_of_winners": 50
+        },
+        {
+          "region": "Occitanie",
+          "technology": "wind_energy_onshore",
+          "volume_auctioned": 109784,
+          "average_price": 0.63,
+          "volume_sold": 109784,
+          "number_of_winners": 30
+        },
+        {
+          "region": "Occitanie",
+          "technology": "hydro",
+          "volume_auctioned": 70635,
+          "average_price": 0.62,
+          "volume_sold": 70635,
+          "number_of_winners": 60
+        },
+        {
+          "region": "Occitanie",
+          "technology": "solar",
+          "volume_auctioned": 240265,
+          "average_price": 0.69,
+          "volume_sold": 240265,
+          "number_of_winners": 90
+        },
+        {
+          "region": "Occitanie",
+          "technology": "thermal",
+          "volume_auctioned": 9454,
+          "average_price": 0.61,
+          "volume_sold": 9454,
+          "number_of_winners": 20
+        },
+        {
+          "region": "Pays de la Loire",
+          "technology": "wind_energy_onshore",
+          "volume_auctioned": 70905,
+          "average_price": 0.62,
+          "volume_sold": 70905,
+          "number_of_winners": 50
+        },
+        {
+          "region": "Pays de la Loire",
+          "technology": "hydro",
+          "volume_auctioned": 1656,
+          "average_price": 0.61,
+          "volume_sold": 1656,
+          "number_of_winners": 20
+        },
+        {
+          "region": "Pays de la Loire",
+          "technology": "solar",
+          "volume_auctioned": 39426,
+          "average_price": 0.62,
+          "volume_sold": 39426,
+          "number_of_winners": 30
+        },
+        {
+          "region": "Pays de la Loire",
+          "technology": "thermal",
+          "volume_auctioned": 15264,
+          "average_price": 0.61,
+          "volume_sold": 15264,
+          "number_of_winners": 20
+        },
+        {
+          "region": "Provence-Alpes-Côte d'Azur",
+          "technology": "wind_energy_onshore",
+          "volume_auctioned": 8418,
+          "average_price": 0.61,
+          "volume_sold": 8418,
+          "number_of_winners": 20
+        },
+        {
+          "region": "Provence-Alpes-Côte d'Azur",
+          "technology": "hydro",
+          "volume_auctioned": 31220,
+          "average_price": 0.61,
+          "volume_sold": 31220,
+          "number_of_winners": 30
+        },
+        {
+          "region": "Provence-Alpes-Côte d'Azur",
+          "technology": "solar",
+          "volume_auctioned": 192262,
+          "average_price": 0.62,
+          "volume_sold": 192262,
+          "number_of_winners": 90
+        },
+        {
+          "region": "Provence-Alpes-Côte d'Azur",
+          "technology": "thermal",
+          "volume_auctioned": 16388,
+          "average_price": 0.61,
+          "volume_sold": 16388,
+          "number_of_winners": 20
+        }
+      ],
+      "date": "2024-06-01",
+      "number_of_participants": 31,
+      "md5_hash": "6d1093422fb355dcbaafaa35a16745df"
+    },
+    {
+      "auctions": [
+        {
+          "region": "Auvergne-Rhône-Alpes",
+          "technology": "wind_energy_onshore",
+          "volume_auctioned": 35546,
+          "average_price": 0.47,
+          "volume_sold": 35546,
+          "number_of_winners": 31
+        },
+        {
+          "region": "Auvergne-Rhône-Alpes",
+          "technology": "hydro",
+          "volume_auctioned": 89735,
+          "average_price": 0.46,
+          "volume_sold": 89735,
+          "number_of_winners": 51
+        },
+        {
+          "region": "Auvergne-Rhône-Alpes",
+          "technology": "solar",
+          "volume_auctioned": 138397,
+          "average_price": 0.52,
+          "volume_sold": 138397,
+          "number_of_winners": 91
+        },
+        {
+          "region": "Auvergne-Rhône-Alpes",
+          "technology": "thermal",
+          "volume_auctioned": 25932,
+          "average_price": 0.44,
+          "volume_sold": 25932,
+          "number_of_winners": 11
+        },
+        {
+          "region": "Bourgogne-Franche-Comté",
+          "technology": "wind_energy_onshore",
+          "volume_auctioned": 64871,
+          "average_price": 0.49,
+          "volume_sold": 64871,
+          "number_of_winners": 61
+        },
+        {
+          "region": "Bourgogne-Franche-Comté",
+          "technology": "hydro",
+          "volume_auctioned": 12642,
+          "average_price": 0.44,
+          "volume_sold": 12642,
+          "number_of_winners": 11
+        },
+        {
+          "region": "Bourgogne-Franche-Comté",
+          "technology": "solar",
+          "volume_auctioned": 40750,
+          "average_price": 0.47,
+          "volume_sold": 40750,
+          "number_of_winners": 21
+        },
+        {
+          "region": "Bourgogne-Franche-Comté",
+          "technology": "thermal",
+          "volume_auctioned": 18880,
+          "average_price": 0.44,
+          "volume_sold": 18880,
+          "number_of_winners": 11
+        },
+        {
+          "region": "Bretagne",
+          "technology": "wind_energy_onshore",
+          "volume_auctioned": 46848,
+          "average_price": 0.47,
+          "volume_sold": 46848,
+          "number_of_winners": 71
+        },
+        {
+          "region": "Bretagne",
+          "technology": "hydro",
+          "volume_auctioned": 251,
+          "average_price": 0.44,
+          "volume_sold": 251,
+          "number_of_winners": 11
+        },
+        {
+          "region": "Bretagne",
+          "technology": "solar",
+          "volume_auctioned": 17875,
+          "average_price": 0.53,
+          "volume_sold": 17875,
+          "number_of_winners": 41
+        },
+        {
+          "region": "Bretagne",
+          "technology": "thermal",
+          "volume_auctioned": 19308,
+          "average_price": 0.44,
+          "volume_sold": 19308,
+          "number_of_winners": 21
+        },
+        {
+          "region": "Centre-Val de Loire",
+          "technology": "wind_energy_onshore",
+          "volume_auctioned": 82307,
+          "average_price": 0.52,
+          "volume_sold": 82307,
+          "number_of_winners": 41
+        },
+        {
+          "region": "Centre-Val de Loire",
+          "technology": "hydro",
+          "volume_auctioned": 1226,
+          "average_price": 0.44,
+          "volume_sold": 1226,
+          "number_of_winners": 11
+        },
+        {
+          "region": "Centre-Val de Loire",
+          "technology": "solar",
+          "volume_auctioned": 58277,
+          "average_price": 0.47,
+          "volume_sold": 58277,
+          "number_of_winners": 51
+        },
+        {
+          "region": "Centre-Val de Loire",
+          "technology": "thermal",
+          "volume_auctioned": 17770,
+          "average_price": 0.44,
+          "volume_sold": 17770,
+          "number_of_winners": 21
+        },
+        {
+          "region": "Grand Est",
+          "technology": "wind_energy_onshore",
+          "volume_auctioned": 215201,
+          "average_price": 0.46,
+          "volume_sold": 215201,
+          "number_of_winners": 111
+        },
+        {
+          "region": "Grand Est",
+          "technology": "hydro",
+          "volume_auctioned": 21223,
+          "average_price": 0.5,
+          "volume_sold": 21223,
+          "number_of_winners": 11
+        },
+        {
+          "region": "Grand Est",
+          "technology": "solar",
+          "volume_auctioned": 79451,
+          "average_price": 0.52,
+          "volume_sold": 79451,
+          "number_of_winners": 31
+        },
+        {
+          "region": "Grand Est",
+          "technology": "thermal",
+          "volume_auctioned": 41441,
+          "average_price": 0.43,
+          "volume_sold": 41441,
+          "number_of_winners": 31
+        },
+        {
+          "region": "Haut-de-France",
+          "technology": "wind_energy_onshore",
+          "volume_auctioned": 380736,
+          "average_price": 0.45,
+          "volume_sold": 380736,
+          "number_of_winners": 131
+        },
+        {
+          "region": "Haut-de-France",
+          "technology": "hydro",
+          "volume_auctioned": 1285,
+          "average_price": 0.44,
+          "volume_sold": 1285,
+          "number_of_winners": 11
+        },
+        {
+          "region": "Haut-de-France",
+          "technology": "solar",
+          "volume_auctioned": 28780,
+          "average_price": 0.53,
+          "volume_sold": 28780,
+          "number_of_winners": 21
+        },
+        {
+          "region": "Haut-de-France",
+          "technology": "thermal",
+          "volume_auctioned": 31048,
+          "average_price": 0.42,
+          "volume_sold": 31048,
+          "number_of_winners": 21
+        },
+        {
+          "region": "Île-de-France",
+          "technology": "wind_energy_onshore",
+          "volume_auctioned": 10606,
+          "average_price": 0.5,
+          "volume_sold": 10605,
+          "number_of_winners": 31
+        },
+        {
+          "region": "Île-de-France",
+          "technology": "hydro",
+          "volume_auctioned": 660,
+          "average_price": 0.43,
+          "volume_sold": 660,
+          "number_of_winners": 11
+        },
+        {
+          "region": "Île-de-France",
+          "technology": "solar",
+          "volume_auctioned": 11419,
+          "average_price": 0.51,
+          "volume_sold": 11419,
+          "number_of_winners": 61
+        },
+        {
+          "region": "Île-de-France",
+          "technology": "thermal",
+          "volume_auctioned": 16221,
+          "average_price": 0.43,
+          "volume_sold": 16221,
+          "number_of_winners": 21
+        },
+        {
+          "region": "Normandie",
+          "technology": "wind_energy_onshore",
+          "volume_auctioned": 56050,
+          "average_price": 0.43,
+          "volume_sold": 56050,
+          "number_of_winners": 21
+        },
+        {
+          "region": "Normandie",
+          "technology": "hydro",
+          "volume_auctioned": 1456,
+          "average_price": 0.44,
+          "volume_sold": 1456,
+          "number_of_winners": 21
+        },
+        {
+          "region": "Normandie",
+          "technology": "solar",
+          "volume_auctioned": 13094,
+          "average_price": 0.51,
+          "volume_sold": 13094,
+          "number_of_winners": 11
+        },
+        {
+          "region": "Normandie",
+          "technology": "thermal",
+          "volume_auctioned": 36097,
+          "average_price": 0.43,
+          "volume_sold": 36097,
+          "number_of_winners": 11
+        },
+        {
+          "region": "Nouvelle-Aquitaine",
+          "technology": "wind_energy_onshore",
+          "volume_auctioned": 72734,
+          "average_price": 0.46,
+          "volume_sold": 72734,
+          "number_of_winners": 71
+        },
+        {
+          "region": "Nouvelle-Aquitaine",
+          "technology": "hydro",
+          "volume_auctioned": 27225,
+          "average_price": 0.46,
+          "volume_sold": 27225,
+          "number_of_winners": 71
+        },
+        {
+          "region": "Nouvelle-Aquitaine",
+          "technology": "solar",
+          "volume_auctioned": 365815,
+          "average_price": 0.47,
+          "volume_sold": 365815,
+          "number_of_winners": 161
+        },
+        {
+          "region": "Nouvelle-Aquitaine",
+          "technology": "thermal",
+          "volume_auctioned": 62187,
+          "average_price": 0.44,
+          "volume_sold": 62187,
+          "number_of_winners": 21
+        },
+        {
+          "region": "Occitanie",
+          "technology": "wind_energy_onshore",
+          "volume_auctioned": 110633,
+          "average_price": 0.43,
+          "volume_sold": 110633,
+          "number_of_winners": 31
+        },
+        {
+          "region": "Occitanie",
+          "technology": "hydro",
+          "volume_auctioned": 44417,
+          "average_price": 0.44,
+          "volume_sold": 44417,
+          "number_of_winners": 31
+        },
+        {
+          "region": "Occitanie",
+          "technology": "solar",
+          "volume_auctioned": 308900,
+          "average_price": 0.43,
+          "volume_sold": 308900,
+          "number_of_winners": 101
+        },
+        {
+          "region": "Occitanie",
+          "technology": "thermal",
+          "volume_auctioned": 13340,
+          "average_price": 0.42,
+          "volume_sold": 13340,
+          "number_of_winners": 11
+        },
+        {
+          "region": "Pays de la Loire",
+          "technology": "wind_energy_onshore",
+          "volume_auctioned": 59238,
+          "average_price": 0.45,
+          "volume_sold": 59238,
+          "number_of_winners": 81
+        },
+        {
+          "region": "Pays de la Loire",
+          "technology": "hydro",
+          "volume_auctioned": 661,
+          "average_price": 0.44,
+          "volume_sold": 661,
+          "number_of_winners": 11
+        },
+        {
+          "region": "Pays de la Loire",
+          "technology": "solar",
+          "volume_auctioned": 51605,
+          "average_price": 0.43,
+          "volume_sold": 51605,
+          "number_of_winners": 51
+        },
+        {
+          "region": "Pays de la Loire",
+          "technology": "thermal",
+          "volume_auctioned": 16549,
+          "average_price": 0.42,
+          "volume_sold": 16549,
+          "number_of_winners": 21
+        },
+        {
+          "region": "Provence-Alpes-Côte d'Azur",
+          "technology": "wind_energy_onshore",
+          "volume_auctioned": 6714,
+          "average_price": 0.44,
+          "volume_sold": 6714,
+          "number_of_winners": 21
+        },
+        {
+          "region": "Provence-Alpes-Côte d'Azur",
+          "technology": "hydro",
+          "volume_auctioned": 27814,
+          "average_price": 0.42,
+          "volume_sold": 27814,
+          "number_of_winners": 31
+        },
+        {
+          "region": "Provence-Alpes-Côte d'Azur",
+          "technology": "solar",
+          "volume_auctioned": 225816,
+          "average_price": 0.43,
+          "volume_sold": 225816,
+          "number_of_winners": 101
+        },
+        {
+          "region": "Provence-Alpes-Côte d'Azur",
+          "technology": "thermal",
+          "volume_auctioned": 16108,
+          "average_price": 0.42,
+          "volume_sold": 16108,
+          "number_of_winners": 11
+        }
+      ],
+      "date": "2024-07-01",
+      "number_of_participants": 31,
+      "md5_hash": "12c2129aa82c95af9095c3fd8867047c"
+    },
+    {
+      "auctions": [
+        {
+          "region": "Auvergne-Rhône-Alpes",
+          "technology": "wind_energy_onshore",
+          "volume_auctioned": 34419,
+          "average_price": 0.36,
+          "volume_sold": 34419,
+          "number_of_winners": 32
+        },
+        {
+          "region": "Auvergne-Rhône-Alpes",
+          "technology": "hydro",
+          "volume_auctioned": 59293,
+          "average_price": 0.35,
+          "volume_sold": 59293,
+          "number_of_winners": 42
+        },
+        {
+          "region": "Auvergne-Rhône-Alpes",
+          "technology": "solar",
+          "volume_auctioned": 136712,
+          "average_price": 0.44,
+          "volume_sold": 136712,
+          "number_of_winners": 102
+        },
+        {
+          "region": "Auvergne-Rhône-Alpes",
+          "technology": "thermal",
+          "volume_auctioned": 27993,
+          "average_price": 0.35,
+          "volume_sold": 27993,
+          "number_of_winners": 22
+        },
+        {
+          "region": "Bourgogne-Franche-Comté",
+          "technology": "wind_energy_onshore",
+          "volume_auctioned": 56146,
+          "average_price": 0.34,
+          "volume_sold": 56146,
+          "number_of_winners": 62
+        },
+        {
+          "region": "Bourgogne-Franche-Comté",
+          "technology": "hydro",
+          "volume_auctioned": 5722,
+          "average_price": 0.3,
+          "volume_sold": 5722,
+          "number_of_winners": 22
+        },
+        {
+          "region": "Bourgogne-Franche-Comté",
+          "technology": "solar",
+          "volume_auctioned": 44601,
+          "average_price": 0.37,
+          "volume_sold": 44601,
+          "number_of_winners": 22
+        },
+        {
+          "region": "Bourgogne-Franche-Comté",
+          "technology": "thermal",
+          "volume_auctioned": 18304,
+          "average_price": 0.36,
+          "volume_sold": 18304,
+          "number_of_winners": 12
+        },
+        {
+          "region": "Bretagne",
+          "technology": "wind_energy_onshore",
+          "volume_auctioned": 55325,
+          "average_price": 0.34,
+          "volume_sold": 55325,
+          "number_of_winners": 62
+        },
+        {
+          "region": "Bretagne",
+          "technology": "hydro",
+          "volume_auctioned": 587,
+          "average_price": 0.3,
+          "volume_sold": 587,
+          "number_of_winners": 12
+        },
+        {
+          "region": "Bretagne",
+          "technology": "solar",
+          "volume_auctioned": 18732,
+          "average_price": 0.4,
+          "volume_sold": 18732,
+          "number_of_winners": 52
+        },
+        {
+          "region": "Bretagne",
+          "technology": "thermal",
+          "volume_auctioned": 19636,
+          "average_price": 0.36,
+          "volume_sold": 19636,
+          "number_of_winners": 22
+        },
+        {
+          "region": "Centre-Val de Loire",
+          "technology": "wind_energy_onshore",
+          "volume_auctioned": 79064,
+          "average_price": 0.36,
+          "volume_sold": 79064,
+          "number_of_winners": 52
+        },
+        {
+          "region": "Centre-Val de Loire",
+          "technology": "hydro",
+          "volume_auctioned": 878,
+          "average_price": 0.3,
+          "volume_sold": 878,
+          "number_of_winners": 22
+        },
+        {
+          "region": "Centre-Val de Loire",
+          "technology": "solar",
+          "volume_auctioned": 57129,
+          "average_price": 0.38,
+          "volume_sold": 57129,
+          "number_of_winners": 42
+        },
+        {
+          "region": "Centre-Val de Loire",
+          "technology": "thermal",
+          "volume_auctioned": 17662,
+          "average_price": 0.35,
+          "volume_sold": 17662,
+          "number_of_winners": 12
+        },
+        {
+          "region": "Grand Est",
+          "technology": "wind_energy_onshore",
+          "volume_auctioned": 194306,
+          "average_price": 0.34,
+          "volume_sold": 194306,
+          "number_of_winners": 102
+        },
+        {
+          "region": "Grand Est",
+          "technology": "hydro",
+          "volume_auctioned": 17743,
+          "average_price": 0.31,
+          "volume_sold": 17743,
+          "number_of_winners": 12
+        },
+        {
+          "region": "Grand Est",
+          "technology": "solar",
+          "volume_auctioned": 85823,
+          "average_price": 0.37,
+          "volume_sold": 85823,
+          "number_of_winners": 42
+        },
+        {
+          "region": "Grand Est",
+          "technology": "thermal",
+          "volume_auctioned": 40696,
+          "average_price": 0.34,
+          "volume_sold": 40696,
+          "number_of_winners": 22
+        },
+        {
+          "region": "Haut-de-France",
+          "technology": "wind_energy_onshore",
+          "volume_auctioned": 392679,
+          "average_price": 0.34,
+          "volume_sold": 392679,
+          "number_of_winners": 132
+        },
+        {
+          "region": "Haut-de-France",
+          "technology": "hydro",
+          "volume_auctioned": 1213,
+          "average_price": 0.34,
+          "volume_sold": 1213,
+          "number_of_winners": 22
+        },
+        {
+          "region": "Haut-de-France",
+          "technology": "solar",
+          "volume_auctioned": 29134,
+          "average_price": 0.37,
+          "volume_sold": 29134,
+          "number_of_winners": 42
+        },
+        {
+          "region": "Haut-de-France",
+          "technology": "thermal",
+          "volume_auctioned": 34895,
+          "average_price": 0.33,
+          "volume_sold": 34895,
+          "number_of_winners": 22
+        },
+        {
+          "region": "Île-de-France",
+          "technology": "wind_energy_onshore",
+          "volume_auctioned": 10369,
+          "average_price": 0.39,
+          "volume_sold": 10369,
+          "number_of_winners": 22
+        },
+        {
+          "region": "Île-de-France",
+          "technology": "hydro",
+          "volume_auctioned": 669,
+          "average_price": 0.3,
+          "volume_sold": 669,
+          "number_of_winners": 12
+        },
+        {
+          "region": "Île-de-France",
+          "technology": "solar",
+          "volume_auctioned": 11541,
+          "average_price": 0.3,
+          "volume_sold": 11541,
+          "number_of_winners": 62
+        },
+        {
+          "region": "Île-de-France",
+          "technology": "thermal",
+          "volume_auctioned": 14258,
+          "average_price": 0.35,
+          "volume_sold": 14258,
+          "number_of_winners": 12
+        },
+        {
+          "region": "Normandie",
+          "technology": "wind_energy_onshore",
+          "volume_auctioned": 54069,
+          "average_price": 0.35,
+          "volume_sold": 54069,
+          "number_of_winners": 52
+        },
+        {
+          "region": "Normandie",
+          "technology": "hydro",
+          "volume_auctioned": 1439,
+          "average_price": 0.3,
+          "volume_sold": 1439,
+          "number_of_winners": 12
+        },
+        {
+          "region": "Normandie",
+          "technology": "solar",
+          "volume_auctioned": 12661,
+          "average_price": 0.34,
+          "volume_sold": 12661,
+          "number_of_winners": 32
+        },
+        {
+          "region": "Normandie",
+          "technology": "thermal",
+          "volume_auctioned": 35265,
+          "average_price": 0.34,
+          "volume_sold": 35265,
+          "number_of_winners": 22
+        },
+        {
+          "region": "Nouvelle-Aquitaine",
+          "technology": "wind_energy_onshore",
+          "volume_auctioned": 73741,
+          "average_price": 0.34,
+          "volume_sold": 73741,
+          "number_of_winners": 72
+        },
+        {
+          "region": "Nouvelle-Aquitaine",
+          "technology": "hydro",
+          "volume_auctioned": 12152,
+          "average_price": 0.35,
+          "volume_sold": 12152,
+          "number_of_winners": 32
+        },
+        {
+          "region": "Nouvelle-Aquitaine",
+          "technology": "solar",
+          "volume_auctioned": 344051,
+          "average_price": 0.33,
+          "volume_sold": 344051,
+          "number_of_winners": 142
+        },
+        {
+          "region": "Nouvelle-Aquitaine",
+          "technology": "thermal",
+          "volume_auctioned": 61994,
+          "average_price": 0.31,
+          "volume_sold": 61994,
+          "number_of_winners": 22
+        },
+        {
+          "region": "Occitanie",
+          "technology": "wind_energy_onshore",
+          "volume_auctioned": 116237,
+          "average_price": 0.34,
+          "volume_sold": 116237,
+          "number_of_winners": 82
+        },
+        {
+          "region": "Occitanie",
+          "technology": "hydro",
+          "volume_auctioned": 23980,
+          "average_price": 0.33,
+          "volume_sold": 23980,
+          "number_of_winners": 32
+        },
+        {
+          "region": "Occitanie",
+          "technology": "solar",
+          "volume_auctioned": 288980,
+          "average_price": 0.33,
+          "volume_sold": 288980,
+          "number_of_winners": 112
+        },
+        {
+          "region": "Occitanie",
+          "technology": "thermal",
+          "volume_auctioned": 13591,
+          "average_price": 0.35,
+          "volume_sold": 13591,
+          "number_of_winners": 22
+        },
+        {
+          "region": "Pays de la Loire",
+          "technology": "wind_energy_onshore",
+          "volume_auctioned": 60927,
+          "average_price": 0.34,
+          "volume_sold": 60927,
+          "number_of_winners": 82
+        },
+        {
+          "region": "Pays de la Loire",
+          "technology": "hydro",
+          "volume_auctioned": 250,
+          "average_price": 0.3,
+          "volume_sold": 250,
+          "number_of_winners": 12
+        },
+        {
+          "region": "Pays de la Loire",
+          "technology": "solar",
+          "volume_auctioned": 50555,
+          "average_price": 0.38,
+          "volume_sold": 50555,
+          "number_of_winners": 42
+        },
+        {
+          "region": "Pays de la Loire",
+          "technology": "thermal",
+          "volume_auctioned": 15490,
+          "average_price": 0.35,
+          "volume_sold": 15490,
+          "number_of_winners": 12
+        },
+        {
+          "region": "Provence-Alpes-Côte d'Azur",
+          "technology": "wind_energy_onshore",
+          "volume_auctioned": 4789,
+          "average_price": 0.3,
+          "volume_sold": 4789,
+          "number_of_winners": 42
+        },
+        {
+          "region": "Provence-Alpes-Côte d'Azur",
+          "technology": "hydro",
+          "volume_auctioned": 19053,
+          "average_price": 0.33,
+          "volume_sold": 19053,
+          "number_of_winners": 42
+        },
+        {
+          "region": "Provence-Alpes-Côte d'Azur",
+          "technology": "solar",
+          "volume_auctioned": 217092,
+          "average_price": 0.34,
+          "volume_sold": 217092,
+          "number_of_winners": 72
+        },
+        {
+          "region": "Provence-Alpes-Côte d'Azur",
+          "technology": "thermal",
+          "volume_auctioned": 14831,
+          "average_price": 0.35,
+          "volume_sold": 14831,
+          "number_of_winners": 12
+        }
+      ],
+      "date": "2024-08-01",
+      "number_of_participants": 29,
+      "md5_hash": "49204e5ee4d39edbcd644178e1e18968"
+    },
+    {
+      "auctions": [
+        {
+          "region": "Auvergne-Rhône-Alpes",
+          "technology": "wind_energy_onshore",
+          "volume_auctioned": 71396,
+          "average_price": 0.46,
+          "volume_sold": 71396,
+          "number_of_winners": 43
+        },
+        {
+          "region": "Auvergne-Rhône-Alpes",
+          "technology": "hydro",
+          "volume_auctioned": 68433,
+          "average_price": 0.45,
+          "volume_sold": 68433,
+          "number_of_winners": 13
+        },
+        {
+          "region": "Auvergne-Rhône-Alpes",
+          "technology": "solar",
+          "volume_auctioned": 87635,
+          "average_price": 0.48,
+          "volume_sold": 87635,
+          "number_of_winners": 63
+        },
+        {
+          "region": "Auvergne-Rhône-Alpes",
+          "technology": "thermal",
+          "volume_auctioned": 27910,
+          "average_price": 0.45,
+          "volume_sold": 27910,
+          "number_of_winners": 13
+        },
+        {
+          "region": "Bourgogne-Franche-Comté",
+          "technology": "wind_energy_onshore",
+          "volume_auctioned": 165162,
+          "average_price": 0.45,
+          "volume_sold": 165162,
+          "number_of_winners": 33
+        },
+        {
+          "region": "Bourgogne-Franche-Comté",
+          "technology": "hydro",
+          "volume_auctioned": 10908,
+          "average_price": 0.45,
+          "volume_sold": 10908,
+          "number_of_winners": 13
+        },
+        {
+          "region": "Bourgogne-Franche-Comté",
+          "technology": "solar",
+          "volume_auctioned": 30768,
+          "average_price": 0.45,
+          "volume_sold": 30768,
+          "number_of_winners": 13
+        },
+        {
+          "region": "Bourgogne-Franche-Comté",
+          "technology": "thermal",
+          "volume_auctioned": 13571,
+          "average_price": 0.45,
+          "volume_sold": 13571,
+          "number_of_winners": 13
+        },
+        {
+          "region": "Bretagne",
+          "technology": "wind_energy_onshore",
+          "volume_auctioned": 79475,
+          "average_price": 0.45,
+          "volume_sold": 79475,
+          "number_of_winners": 53
+        },
+        {
+          "region": "Bretagne",
+          "technology": "hydro",
+          "volume_auctioned": 282,
+          "average_price": 0.45,
+          "volume_sold": 282,
+          "number_of_winners": 13
+        },
+        {
+          "region": "Bretagne",
+          "technology": "solar",
+          "volume_auctioned": 13587,
+          "average_price": 0.45,
+          "volume_sold": 13587,
+          "number_of_winners": 33
+        },
+        {
+          "region": "Bretagne",
+          "technology": "thermal",
+          "volume_auctioned": 17376,
+          "average_price": 0.45,
+          "volume_sold": 17376,
+          "number_of_winners": 13
+        },
+        {
+          "region": "Centre-Val de Loire",
+          "technology": "wind_energy_onshore",
+          "volume_auctioned": 187825,
+          "average_price": 0.45,
+          "volume_sold": 187825,
+          "number_of_winners": 63
+        },
+        {
+          "region": "Centre-Val de Loire",
+          "technology": "hydro",
+          "volume_auctioned": 875,
+          "average_price": 0.45,
+          "volume_sold": 875,
+          "number_of_winners": 13
+        },
+        {
+          "region": "Centre-Val de Loire",
+          "technology": "solar",
+          "volume_auctioned": 38635,
+          "average_price": 0.45,
+          "volume_sold": 38635,
+          "number_of_winners": 23
+        },
+        {
+          "region": "Centre-Val de Loire",
+          "technology": "thermal",
+          "volume_auctioned": 17097,
+          "average_price": 0.45,
+          "volume_sold": 17097,
+          "number_of_winners": 13
+        },
+        {
+          "region": "Grand Est",
+          "technology": "wind_energy_onshore",
+          "volume_auctioned": 516431,
+          "average_price": 0.45,
+          "volume_sold": 516431,
+          "number_of_winners": 43
+        },
+        {
+          "region": "Grand Est",
+          "technology": "hydro",
+          "volume_auctioned": 16552,
+          "average_price": 0.45,
+          "volume_sold": 16552,
+          "number_of_winners": 13
+        },
+        {
+          "region": "Grand Est",
+          "technology": "solar",
+          "volume_auctioned": 56509,
+          "average_price": 0.45,
+          "volume_sold": 56509,
+          "number_of_winners": 13
+        },
+        {
+          "region": "Grand Est",
+          "technology": "thermal",
+          "volume_auctioned": 45994,
+          "average_price": 0.45,
+          "volume_sold": 45994,
+          "number_of_winners": 13
+        },
+        {
+          "region": "Haut-de-France",
+          "technology": "wind_energy_onshore",
+          "volume_auctioned": 685882,
+          "average_price": 0.45,
+          "volume_sold": 685882,
+          "number_of_winners": 33
+        },
+        {
+          "region": "Haut-de-France",
+          "technology": "hydro",
+          "volume_auctioned": 982,
+          "average_price": 0.45,
+          "volume_sold": 982,
+          "number_of_winners": 13
+        },
+        {
+          "region": "Haut-de-France",
+          "technology": "solar",
+          "volume_auctioned": 22039,
+          "average_price": 0.45,
+          "volume_sold": 22039,
+          "number_of_winners": 23
+        },
+        {
+          "region": "Haut-de-France",
+          "technology": "thermal",
+          "volume_auctioned": 32418,
+          "average_price": 0.45,
+          "volume_sold": 32418,
+          "number_of_winners": 13
+        },
+        {
+          "region": "Île-de-France",
+          "technology": "wind_energy_onshore",
+          "volume_auctioned": 22929,
+          "average_price": 0.46,
+          "volume_sold": 22929,
+          "number_of_winners": 33
+        },
+        {
+          "region": "Île-de-France",
+          "technology": "hydro",
+          "volume_auctioned": 965,
+          "average_price": 0.45,
+          "volume_sold": 965,
+          "number_of_winners": 13
+        },
+        {
+          "region": "Île-de-France",
+          "technology": "solar",
+          "volume_auctioned": 8900,
+          "average_price": 0.45,
+          "volume_sold": 8900,
+          "number_of_winners": 23
+        },
+        {
+          "region": "Île-de-France",
+          "technology": "thermal",
+          "volume_auctioned": 15480,
+          "average_price": 0.45,
+          "volume_sold": 15480,
+          "number_of_winners": 13
+        },
+        {
+          "region": "Normandie",
+          "technology": "wind_energy_onshore",
+          "volume_auctioned": 89868,
+          "average_price": 0.45,
+          "volume_sold": 89868,
+          "number_of_winners": 23
+        },
+        {
+          "region": "Normandie",
+          "technology": "hydro",
+          "volume_auctioned": 1421,
+          "average_price": 0.45,
+          "volume_sold": 1421,
+          "number_of_winners": 13
+        },
+        {
+          "region": "Normandie",
+          "technology": "solar",
+          "volume_auctioned": 8729,
+          "average_price": 0.45,
+          "volume_sold": 8729,
+          "number_of_winners": 13
+        },
+        {
+          "region": "Normandie",
+          "technology": "thermal",
+          "volume_auctioned": 35028,
+          "average_price": 0.45,
+          "volume_sold": 35028,
+          "number_of_winners": 13
+        },
+        {
+          "region": "Nouvelle-Aquitaine",
+          "technology": "wind_energy_onshore",
+          "volume_auctioned": 174124,
+          "average_price": 0.45,
+          "volume_sold": 174124,
+          "number_of_winners": 33
+        },
+        {
+          "region": "Nouvelle-Aquitaine",
+          "technology": "hydro",
+          "volume_auctioned": 23836,
+          "average_price": 0.45,
+          "volume_sold": 23836,
+          "number_of_winners": 23
+        },
+        {
+          "region": "Nouvelle-Aquitaine",
+          "technology": "solar",
+          "volume_auctioned": 245967,
+          "average_price": 0.45,
+          "volume_sold": 245967,
+          "number_of_winners": 33
+        },
+        {
+          "region": "Nouvelle-Aquitaine",
+          "technology": "thermal",
+          "volume_auctioned": 55244,
+          "average_price": 0.45,
+          "volume_sold": 55244,
+          "number_of_winners": 13
+        },
+        {
+          "region": "Occitanie",
+          "technology": "wind_energy_onshore",
+          "volume_auctioned": 166152,
+          "average_price": 0.45,
+          "volume_sold": 166152,
+          "number_of_winners": 33
+        },
+        {
+          "region": "Occitanie",
+          "technology": "hydro",
+          "volume_auctioned": 34655,
+          "average_price": 0.45,
+          "volume_sold": 34655,
+          "number_of_winners": 13
+        },
+        {
+          "region": "Occitanie",
+          "technology": "solar",
+          "volume_auctioned": 204376,
+          "average_price": 0.45,
+          "volume_sold": 204376,
+          "number_of_winners": 43
+        },
+        {
+          "region": "Occitanie",
+          "technology": "thermal",
+          "volume_auctioned": 13424,
+          "average_price": 0.45,
+          "volume_sold": 13424,
+          "number_of_winners": 13
+        },
+        {
+          "region": "Pays de la Loire",
+          "technology": "wind_energy_onshore",
+          "volume_auctioned": 111256,
+          "average_price": 0.45,
+          "volume_sold": 111256,
+          "number_of_winners": 43
+        },
+        {
+          "region": "Pays de la Loire",
+          "technology": "hydro",
+          "volume_auctioned": 175,
+          "average_price": 0.45,
+          "volume_sold": 175,
+          "number_of_winners": 13
+        },
+        {
+          "region": "Pays de la Loire",
+          "technology": "solar",
+          "volume_auctioned": 37450,
+          "average_price": 0.45,
+          "volume_sold": 37450,
+          "number_of_winners": 23
+        },
+        {
+          "region": "Pays de la Loire",
+          "technology": "thermal",
+          "volume_auctioned": 15717,
+          "average_price": 0.45,
+          "volume_sold": 15717,
+          "number_of_winners": 13
+        },
+        {
+          "region": "Provence-Alpes-Côte d'Azur",
+          "technology": "wind_energy_onshore",
+          "volume_auctioned": 13553,
+          "average_price": 0.45,
+          "volume_sold": 13553,
+          "number_of_winners": 13
+        },
+        {
+          "region": "Provence-Alpes-Côte d'Azur",
+          "technology": "hydro",
+          "volume_auctioned": 19855,
+          "average_price": 0.45,
+          "volume_sold": 19855,
+          "number_of_winners": 13
+        },
+        {
+          "region": "Provence-Alpes-Côte d'Azur",
+          "technology": "solar",
+          "volume_auctioned": 164519,
+          "average_price": 0.45,
+          "volume_sold": 164519,
+          "number_of_winners": 33
+        },
+        {
+          "region": "Provence-Alpes-Côte d'Azur",
+          "technology": "thermal",
+          "volume_auctioned": 15968,
+          "average_price": 0.45,
+          "volume_sold": 15968,
+          "number_of_winners": 13
+        }
+      ],
+      "date": "2024-09-01",
+      "number_of_participants": 30,
+      "md5_hash": "76b2f453e3ce525706d497be6640ba6a"
+    },
+    {
+      "auctions": [
+        {
+          "region": "Auvergne-Rhône-Alpes",
+          "technology": "wind_energy_onshore",
+          "volume_auctioned": 61446,
+          "average_price": 0.27,
+          "volume_sold": 61446,
+          "number_of_winners": 64
+        },
+        {
+          "region": "Auvergne-Rhône-Alpes",
+          "technology": "hydro",
+          "volume_auctioned": 95968,
+          "average_price": 0.29,
+          "volume_sold": 95968,
+          "number_of_winners": 44
+        },
+        {
+          "region": "Auvergne-Rhône-Alpes",
+          "technology": "solar",
+          "volume_auctioned": 70941,
+          "average_price": 0.28,
+          "volume_sold": 70941,
+          "number_of_winners": 74
+        },
+        {
+          "region": "Auvergne-Rhône-Alpes",
+          "technology": "thermal",
+          "volume_auctioned": 28297,
+          "average_price": 0.27,
+          "volume_sold": 28297,
+          "number_of_winners": 24
+        },
+        {
+          "region": "Bourgogne-Franche-Comté",
+          "technology": "wind_energy_onshore",
+          "volume_auctioned": 139241,
+          "average_price": 0.29,
+          "volume_sold": 139241,
+          "number_of_winners": 74
+        },
+        {
+          "region": "Bourgogne-Franche-Comté",
+          "technology": "hydro",
+          "volume_auctioned": 15683,
+          "average_price": 0.24,
+          "volume_sold": 15683,
+          "number_of_winners": 14
+        },
+        {
+          "region": "Bourgogne-Franche-Comté",
+          "technology": "solar",
+          "volume_auctioned": 24598,
+          "average_price": 0.26,
+          "volume_sold": 24598,
+          "number_of_winners": 34
+        },
+        {
+          "region": "Bourgogne-Franche-Comté",
+          "technology": "thermal",
+          "volume_auctioned": 19620,
+          "average_price": 0.25,
+          "volume_sold": 19620,
+          "number_of_winners": 14
+        },
+        {
+          "region": "Bretagne",
+          "technology": "wind_energy_onshore",
+          "volume_auctioned": 73402,
+          "average_price": 0.29,
+          "volume_sold": 73402,
+          "number_of_winners": 54
+        },
+        {
+          "region": "Bretagne",
+          "technology": "hydro",
+          "volume_auctioned": 1768,
+          "average_price": 0.27,
+          "volume_sold": 1768,
+          "number_of_winners": 24
+        },
+        {
+          "region": "Bretagne",
+          "technology": "solar",
+          "volume_auctioned": 11813,
+          "average_price": 0.29,
+          "volume_sold": 11813,
+          "number_of_winners": 44
+        },
+        {
+          "region": "Bretagne",
+          "technology": "thermal",
+          "volume_auctioned": 17778,
+          "average_price": 0.25,
+          "volume_sold": 17778,
+          "number_of_winners": 14
+        },
+        {
+          "region": "Centre-Val de Loire",
+          "technology": "wind_energy_onshore",
+          "volume_auctioned": 145076,
+          "average_price": 0.34,
+          "volume_sold": 145076,
+          "number_of_winners": 74
+        },
+        {
+          "region": "Centre-Val de Loire",
+          "technology": "hydro",
+          "volume_auctioned": 1257,
+          "average_price": 0.26,
+          "volume_sold": 1257,
+          "number_of_winners": 24
+        },
+        {
+          "region": "Centre-Val de Loire",
+          "technology": "solar",
+          "volume_auctioned": 26796,
+          "average_price": 0.27,
+          "volume_sold": 26796,
+          "number_of_winners": 44
+        },
+        {
+          "region": "Centre-Val de Loire",
+          "technology": "thermal",
+          "volume_auctioned": 15569,
+          "average_price": 0.26,
+          "volume_sold": 15569,
+          "number_of_winners": 44
+        },
+        {
+          "region": "Grand Est",
+          "technology": "wind_energy_onshore",
+          "volume_auctioned": 403328,
+          "average_price": 0.3,
+          "volume_sold": 403328,
+          "number_of_winners": 154
+        },
+        {
+          "region": "Grand Est",
+          "technology": "hydro",
+          "volume_auctioned": 19929,
+          "average_price": 0.25,
+          "volume_sold": 19929,
+          "number_of_winners": 14
+        },
+        {
+          "region": "Grand Est",
+          "technology": "solar",
+          "volume_auctioned": 37855,
+          "average_price": 0.25,
+          "volume_sold": 37855,
+          "number_of_winners": 24
+        },
+        {
+          "region": "Grand Est",
+          "technology": "thermal",
+          "volume_auctioned": 46686,
+          "average_price": 0.27,
+          "volume_sold": 46686,
+          "number_of_winners": 24
+        },
+        {
+          "region": "Haut-de-France",
+          "technology": "wind_energy_onshore",
+          "volume_auctioned": 546705,
+          "average_price": 0.28,
+          "volume_sold": 546705,
+          "number_of_winners": 144
+        },
+        {
+          "region": "Haut-de-France",
+          "technology": "hydro",
+          "volume_auctioned": 963,
+          "average_price": 0.24,
+          "volume_sold": 963,
+          "number_of_winners": 14
+        },
+        {
+          "region": "Haut-de-France",
+          "technology": "solar",
+          "volume_auctioned": 14490,
+          "average_price": 0.27,
+          "volume_sold": 14490,
+          "number_of_winners": 24
+        },
+        {
+          "region": "Haut-de-France",
+          "technology": "thermal",
+          "volume_auctioned": 28752,
+          "average_price": 0.28,
+          "volume_sold": 28752,
+          "number_of_winners": 24
+        },
+        {
+          "region": "Île-de-France",
+          "technology": "wind_energy_onshore",
+          "volume_auctioned": 18157,
+          "average_price": 0.3,
+          "volume_sold": 18157,
+          "number_of_winners": 54
+        },
+        {
+          "region": "Île-de-France",
+          "technology": "hydro",
+          "volume_auctioned": 659,
+          "average_price": 0.24,
+          "volume_sold": 659,
+          "number_of_winners": 14
+        },
+        {
+          "region": "Île-de-France",
+          "technology": "solar",
+          "volume_auctioned": 6122,
+          "average_price": 0.27,
+          "volume_sold": 6122,
+          "number_of_winners": 34
+        },
+        {
+          "region": "Île-de-France",
+          "technology": "thermal",
+          "volume_auctioned": 16276,
+          "average_price": 0.25,
+          "volume_sold": 16276,
+          "number_of_winners": 24
+        },
+        {
+          "region": "Normandie",
+          "technology": "wind_energy_onshore",
+          "volume_auctioned": 72982,
+          "average_price": 0.25,
+          "volume_sold": 72982,
+          "number_of_winners": 24
+        },
+        {
+          "region": "Normandie",
+          "technology": "hydro",
+          "volume_auctioned": 1320,
+          "average_price": 0.27,
+          "volume_sold": 1320,
+          "number_of_winners": 14
+        },
+        {
+          "region": "Normandie",
+          "technology": "solar",
+          "volume_auctioned": 6669,
+          "average_price": 0.29,
+          "volume_sold": 6667,
+          "number_of_winners": 34
+        },
+        {
+          "region": "Normandie",
+          "technology": "thermal",
+          "volume_auctioned": 23738,
+          "average_price": 0.28,
+          "volume_sold": 23738,
+          "number_of_winners": 24
+        },
+        {
+          "region": "Nouvelle-Aquitaine",
+          "technology": "wind_energy_onshore",
+          "volume_auctioned": 149424,
+          "average_price": 0.25,
+          "volume_sold": 149424,
+          "number_of_winners": 64
+        },
+        {
+          "region": "Nouvelle-Aquitaine",
+          "technology": "hydro",
+          "volume_auctioned": 38165,
+          "average_price": 0.27,
+          "volume_sold": 38165,
+          "number_of_winners": 54
+        },
+        {
+          "region": "Nouvelle-Aquitaine",
+          "technology": "solar",
+          "volume_auctioned": 180318,
+          "average_price": 0.29,
+          "volume_sold": 180318,
+          "number_of_winners": 94
+        },
+        {
+          "region": "Nouvelle-Aquitaine",
+          "technology": "thermal",
+          "volume_auctioned": 45330,
+          "average_price": 0.25,
+          "volume_sold": 45330,
+          "number_of_winners": 14
+        },
+        {
+          "region": "Occitanie",
+          "technology": "wind_energy_onshore",
+          "volume_auctioned": 124822,
+          "average_price": 0.27,
+          "volume_sold": 124822,
+          "number_of_winners": 44
+        },
+        {
+          "region": "Occitanie",
+          "technology": "hydro",
+          "volume_auctioned": 57554,
+          "average_price": 0.28,
+          "volume_sold": 57554,
+          "number_of_winners": 44
+        },
+        {
+          "region": "Occitanie",
+          "technology": "solar",
+          "volume_auctioned": 148943,
+          "average_price": 0.27,
+          "volume_sold": 148943,
+          "number_of_winners": 84
+        },
+        {
+          "region": "Occitanie",
+          "technology": "thermal",
+          "volume_auctioned": 14121,
+          "average_price": 0.28,
+          "volume_sold": 14121,
+          "number_of_winners": 14
+        },
+        {
+          "region": "Pays de la Loire",
+          "technology": "wind_energy_onshore",
+          "volume_auctioned": 93277,
+          "average_price": 0.27,
+          "volume_sold": 93277,
+          "number_of_winners": 54
+        },
+        {
+          "region": "Pays de la Loire",
+          "technology": "hydro",
+          "volume_auctioned": 849,
+          "average_price": 0.24,
+          "volume_sold": 849,
+          "number_of_winners": 14
+        },
+        {
+          "region": "Pays de la Loire",
+          "technology": "solar",
+          "volume_auctioned": 27092,
+          "average_price": 0.28,
+          "volume_sold": 27092,
+          "number_of_winners": 34
+        },
+        {
+          "region": "Pays de la Loire",
+          "technology": "thermal",
+          "volume_auctioned": 16818,
+          "average_price": 0.24,
+          "volume_sold": 16818,
+          "number_of_winners": 24
+        },
+        {
+          "region": "Provence-Alpes-Côte d'Azur",
+          "technology": "wind_energy_onshore",
+          "volume_auctioned": 12317,
+          "average_price": 0.34,
+          "volume_sold": 12317,
+          "number_of_winners": 34
+        },
+        {
+          "region": "Provence-Alpes-Côte d'Azur",
+          "technology": "hydro",
+          "volume_auctioned": 26068,
+          "average_price": 0.34,
+          "volume_sold": 26068,
+          "number_of_winners": 34
+        },
+        {
+          "region": "Provence-Alpes-Côte d'Azur",
+          "technology": "solar",
+          "volume_auctioned": 114114,
+          "average_price": 0.33,
+          "volume_sold": 114114,
+          "number_of_winners": 94
+        },
+        {
+          "region": "Provence-Alpes-Côte d'Azur",
+          "technology": "thermal",
+          "volume_auctioned": 8757,
+          "average_price": 0.24,
+          "volume_sold": 8757,
+          "number_of_winners": 14
+        }
+      ],
+      "date": "2024-10-01",
+      "number_of_participants": 32,
+      "md5_hash": "a184e5bae1081947a7427cc4e0d679e5"
+    },
+    {
+      "auctions": [
+        {
+          "region": "Auvergne-Rhône-Alpes",
+          "technology": "wind_energy_onshore",
+          "volume_auctioned": 54737,
+          "average_price": 0.23,
+          "volume_sold": 54737,
+          "number_of_winners": 55
+        },
+        {
+          "region": "Auvergne-Rhône-Alpes",
+          "technology": "hydro",
+          "volume_auctioned": 71347,
+          "average_price": 0.25,
+          "volume_sold": 71347,
+          "number_of_winners": 55
+        },
+        {
+          "region": "Auvergne-Rhône-Alpes",
+          "technology": "solar",
+          "volume_auctioned": 49195,
+          "average_price": 0.28,
+          "volume_sold": 49195,
+          "number_of_winners": 75
+        },
+        {
+          "region": "Auvergne-Rhône-Alpes",
+          "technology": "thermal",
+          "volume_auctioned": 22324,
+          "average_price": 0.16,
+          "volume_sold": 22324,
+          "number_of_winners": 15
+        },
+        {
+          "region": "Bourgogne-Franche-Comté",
+          "technology": "wind_energy_onshore",
+          "volume_auctioned": 163107,
+          "average_price": 0.26,
+          "volume_sold": 163107,
+          "number_of_winners": 105
+        },
+        {
+          "region": "Bourgogne-Franche-Comté",
+          "technology": "hydro",
+          "volume_auctioned": 11310,
+          "average_price": 0.15,
+          "volume_sold": 11310,
+          "number_of_winners": 15
+        },
+        {
+          "region": "Bourgogne-Franche-Comté",
+          "technology": "solar",
+          "volume_auctioned": 12467,
+          "average_price": 0.16,
+          "volume_sold": 12467,
+          "number_of_winners": 25
+        },
+        {
+          "region": "Bourgogne-Franche-Comté",
+          "technology": "thermal",
+          "volume_auctioned": 19437,
+          "average_price": 0.16,
+          "volume_sold": 19437,
+          "number_of_winners": 15
+        },
+        {
+          "region": "Bretagne",
+          "technology": "wind_energy_onshore",
+          "volume_auctioned": 94723,
+          "average_price": 0.21,
+          "volume_sold": 94723,
+          "number_of_winners": 75
+        },
+        {
+          "region": "Bretagne",
+          "technology": "hydro",
+          "volume_auctioned": 2472,
+          "average_price": 0.15,
+          "volume_sold": 2472,
+          "number_of_winners": 15
+        },
+        {
+          "region": "Bretagne",
+          "technology": "solar",
+          "volume_auctioned": 4780,
+          "average_price": 0.2,
+          "volume_sold": 4780,
+          "number_of_winners": 55
+        },
+        {
+          "region": "Bretagne",
+          "technology": "thermal",
+          "volume_auctioned": 15940,
+          "average_price": 0.16,
+          "volume_sold": 15940,
+          "number_of_winners": 15
+        },
+        {
+          "region": "Centre-Val de Loire",
+          "technology": "wind_energy_onshore",
+          "volume_auctioned": 187477,
+          "average_price": 0.21,
+          "volume_sold": 187477,
+          "number_of_winners": 65
+        },
+        {
+          "region": "Centre-Val de Loire",
+          "technology": "hydro",
+          "volume_auctioned": 1341,
+          "average_price": 0.15,
+          "volume_sold": 1341,
+          "number_of_winners": 15
+        },
+        {
+          "region": "Centre-Val de Loire",
+          "technology": "solar",
+          "volume_auctioned": 13692,
+          "average_price": 0.22,
+          "volume_sold": 13692,
+          "number_of_winners": 35
+        },
+        {
+          "region": "Centre-Val de Loire",
+          "technology": "thermal",
+          "volume_auctioned": 14887,
+          "average_price": 0.16,
+          "volume_sold": 14887,
+          "number_of_winners": 15
+        },
+        {
+          "region": "Grand Est",
+          "technology": "wind_energy_onshore",
+          "volume_auctioned": 519946,
+          "average_price": 0.18,
+          "volume_sold": 519946,
+          "number_of_winners": 85
+        },
+        {
+          "region": "Grand Est",
+          "technology": "hydro",
+          "volume_auctioned": 16457,
+          "average_price": 0.23,
+          "volume_sold": 16457,
+          "number_of_winners": 15
+        },
+        {
+          "region": "Grand Est",
+          "technology": "solar",
+          "volume_auctioned": 16464,
+          "average_price": 0.18,
+          "volume_sold": 16464,
+          "number_of_winners": 35
+        },
+        {
+          "region": "Grand Est",
+          "technology": "thermal",
+          "volume_auctioned": 46166,
+          "average_price": 0.16,
+          "volume_sold": 46166,
+          "number_of_winners": 55
+        },
+        {
+          "region": "Haut-de-France",
+          "technology": "wind_energy_onshore",
+          "volume_auctioned": 677137,
+          "average_price": 0.18,
+          "volume_sold": 677137,
+          "number_of_winners": 115
+        },
+        {
+          "region": "Haut-de-France",
+          "technology": "hydro",
+          "volume_auctioned": 960,
+          "average_price": 0.15,
+          "volume_sold": 960,
+          "number_of_winners": 15
+        },
+        {
+          "region": "Haut-de-France",
+          "technology": "solar",
+          "volume_auctioned": 6612,
+          "average_price": 0.16,
+          "volume_sold": 6612,
+          "number_of_winners": 35
+        },
+        {
+          "region": "Haut-de-France",
+          "technology": "thermal",
+          "volume_auctioned": 32382,
+          "average_price": 0.16,
+          "volume_sold": 32382,
+          "number_of_winners": 25
+        },
+        {
+          "region": "Île-de-France",
+          "technology": "wind_energy_onshore",
+          "volume_auctioned": 20629,
+          "average_price": 0.23,
+          "volume_sold": 20629,
+          "number_of_winners": 45
+        },
+        {
+          "region": "Île-de-France",
+          "technology": "hydro",
+          "volume_auctioned": 679,
+          "average_price": 0.15,
+          "volume_sold": 679,
+          "number_of_winners": 25
+        },
+        {
+          "region": "Île-de-France",
+          "technology": "solar",
+          "volume_auctioned": 2496,
+          "average_price": 0.17,
+          "volume_sold": 2496,
+          "number_of_winners": 45
+        },
+        {
+          "region": "Île-de-France",
+          "technology": "thermal",
+          "volume_auctioned": 17265,
+          "average_price": 0.15,
+          "volume_sold": 17265,
+          "number_of_winners": 15
+        },
+        {
+          "region": "Normandie",
+          "technology": "wind_energy_onshore",
+          "volume_auctioned": 99337,
+          "average_price": 0.15,
+          "volume_sold": 99337,
+          "number_of_winners": 45
+        },
+        {
+          "region": "Normandie",
+          "technology": "hydro",
+          "volume_auctioned": 1696,
+          "average_price": 0.15,
+          "volume_sold": 1696,
+          "number_of_winners": 15
+        },
+        {
+          "region": "Normandie",
+          "technology": "solar",
+          "volume_auctioned": 2651,
+          "average_price": 0.18,
+          "volume_sold": 2651,
+          "number_of_winners": 15
+        },
+        {
+          "region": "Normandie",
+          "technology": "thermal",
+          "volume_auctioned": 29116,
+          "average_price": 0.15,
+          "volume_sold": 29116,
+          "number_of_winners": 25
+        },
+        {
+          "region": "Nouvelle-Aquitaine",
+          "technology": "wind_energy_onshore",
+          "volume_auctioned": 191246,
+          "average_price": 0.18,
+          "volume_sold": 191246,
+          "number_of_winners": 125
+        },
+        {
+          "region": "Nouvelle-Aquitaine",
+          "technology": "hydro",
+          "volume_auctioned": 35250,
+          "average_price": 0.17,
+          "volume_sold": 35250,
+          "number_of_winners": 35
+        },
+        {
+          "region": "Nouvelle-Aquitaine",
+          "technology": "solar",
+          "volume_auctioned": 147217,
+          "average_price": 0.19,
+          "volume_sold": 147217,
+          "number_of_winners": 85
+        },
+        {
+          "region": "Nouvelle-Aquitaine",
+          "technology": "thermal",
+          "volume_auctioned": 61339,
+          "average_price": 0.16,
+          "volume_sold": 61339,
+          "number_of_winners": 35
+        },
+        {
+          "region": "Occitanie",
+          "technology": "wind_energy_onshore",
+          "volume_auctioned": 125447,
+          "average_price": 0.17,
+          "volume_sold": 125447,
+          "number_of_winners": 65
+        },
+        {
+          "region": "Occitanie",
+          "technology": "hydro",
+          "volume_auctioned": 64872,
+          "average_price": 0.17,
+          "volume_sold": 64872,
+          "number_of_winners": 65
+        },
+        {
+          "region": "Occitanie",
+          "technology": "solar",
+          "volume_auctioned": 123825,
+          "average_price": 0.18,
+          "volume_sold": 123825,
+          "number_of_winners": 75
+        },
+        {
+          "region": "Occitanie",
+          "technology": "thermal",
+          "volume_auctioned": 13424,
+          "average_price": 0.15,
+          "volume_sold": 13424,
+          "number_of_winners": 15
+        },
+        {
+          "region": "Pays de la Loire",
+          "technology": "wind_energy_onshore",
+          "volume_auctioned": 130984,
+          "average_price": 0.2,
+          "volume_sold": 130984,
+          "number_of_winners": 145
+        },
+        {
+          "region": "Pays de la Loire",
+          "technology": "hydro",
+          "volume_auctioned": 1713,
+          "average_price": 0.15,
+          "volume_sold": 1713,
+          "number_of_winners": 15
+        },
+        {
+          "region": "Pays de la Loire",
+          "technology": "solar",
+          "volume_auctioned": 13649,
+          "average_price": 0.19,
+          "volume_sold": 13649,
+          "number_of_winners": 55
+        },
+        {
+          "region": "Pays de la Loire",
+          "technology": "thermal",
+          "volume_auctioned": 14398,
+          "average_price": 0.15,
+          "volume_sold": 14398,
+          "number_of_winners": 25
+        },
+        {
+          "region": "Provence-Alpes-Côte d'Azur",
+          "technology": "wind_energy_onshore",
+          "volume_auctioned": 10089,
+          "average_price": 0.15,
+          "volume_sold": 10089,
+          "number_of_winners": 25
+        },
+        {
+          "region": "Provence-Alpes-Côte d'Azur",
+          "technology": "hydro",
+          "volume_auctioned": 24329,
+          "average_price": 0.23,
+          "volume_sold": 24329,
+          "number_of_winners": 35
+        },
+        {
+          "region": "Provence-Alpes-Côte d'Azur",
+          "technology": "solar",
+          "volume_auctioned": 98513,
+          "average_price": 0.18,
+          "volume_sold": 98513,
+          "number_of_winners": 105
+        },
+        {
+          "region": "Provence-Alpes-Côte d'Azur",
+          "technology": "thermal",
+          "volume_auctioned": 16209,
+          "average_price": 0.15,
+          "volume_sold": 16209,
+          "number_of_winners": 15
+        }
+      ],
+      "date": "2024-11-01",
+      "number_of_participants": 28,
+      "md5_hash": "c21313a262dc620fbec5f2c1151dedaa"
+    },
+    {
+      "auctions": [
+        {
+          "region": "Auvergne-Rhône-Alpes",
+          "technology": "wind_energy_onshore",
+          "volume_auctioned": 58212,
+          "average_price": 0.19,
+          "volume_sold": 58212,
+          "number_of_winners": 26
+        },
+        {
+          "region": "Auvergne-Rhône-Alpes",
+          "technology": "hydro",
+          "volume_auctioned": 104776,
+          "average_price": 0.22,
+          "volume_sold": 104776,
+          "number_of_winners": 76
+        },
+        {
+          "region": "Auvergne-Rhône-Alpes",
+          "technology": "solar",
+          "volume_auctioned": 35370,
+          "average_price": 0.25,
+          "volume_sold": 35370,
+          "number_of_winners": 56
+        },
+        {
+          "region": "Auvergne-Rhône-Alpes",
+          "technology": "thermal",
+          "volume_auctioned": 23417,
+          "average_price": 0.23,
+          "volume_sold": 23417,
+          "number_of_winners": 26
+        },
+        {
+          "region": "Bourgogne-Franche-Comté",
+          "technology": "wind_energy_onshore",
+          "volume_auctioned": 178022,
+          "average_price": 0.24,
+          "volume_sold": 178022,
+          "number_of_winners": 76
+        },
+        {
+          "region": "Bourgogne-Franche-Comté",
+          "technology": "hydro",
+          "volume_auctioned": 21135,
+          "average_price": 0.27,
+          "volume_sold": 21135,
+          "number_of_winners": 16
+        },
+        {
+          "region": "Bourgogne-Franche-Comté",
+          "technology": "solar",
+          "volume_auctioned": 8964,
+          "average_price": 0.18,
+          "volume_sold": 8964,
+          "number_of_winners": 26
+        },
+        {
+          "region": "Bourgogne-Franche-Comté",
+          "technology": "thermal",
+          "volume_auctioned": 20156,
+          "average_price": 0.16,
+          "volume_sold": 20156,
+          "number_of_winners": 16
+        },
+        {
+          "region": "Bretagne",
+          "technology": "wind_energy_onshore",
+          "volume_auctioned": 129351,
+          "average_price": 0.22,
+          "volume_sold": 129351,
+          "number_of_winners": 56
+        },
+        {
+          "region": "Bretagne",
+          "technology": "hydro",
+          "volume_auctioned": 3500,
+          "average_price": 0.27,
+          "volume_sold": 3500,
+          "number_of_winners": 16
+        },
+        {
+          "region": "Bretagne",
+          "technology": "solar",
+          "volume_auctioned": 4267,
+          "average_price": 0.2,
+          "volume_sold": 4267,
+          "number_of_winners": 56
+        },
+        {
+          "region": "Bretagne",
+          "technology": "thermal",
+          "volume_auctioned": 21703,
+          "average_price": 0.16,
+          "volume_sold": 21703,
+          "number_of_winners": 16
+        },
+        {
+          "region": "Centre-Val de Loire",
+          "technology": "wind_energy_onshore",
+          "volume_auctioned": 232379,
+          "average_price": 0.24,
+          "volume_sold": 232379,
+          "number_of_winners": 86
+        },
+        {
+          "region": "Centre-Val de Loire",
+          "technology": "hydro",
+          "volume_auctioned": 1300,
+          "average_price": 0.27,
+          "volume_sold": 1300,
+          "number_of_winners": 16
+        },
+        {
+          "region": "Centre-Val de Loire",
+          "technology": "solar",
+          "volume_auctioned": 11405,
+          "average_price": 0.2,
+          "volume_sold": 11405,
+          "number_of_winners": 36
+        },
+        {
+          "region": "Centre-Val de Loire",
+          "technology": "thermal",
+          "volume_auctioned": 15673,
+          "average_price": 0.18,
+          "volume_sold": 15673,
+          "number_of_winners": 36
+        },
+        {
+          "region": "Grand Est",
+          "technology": "wind_energy_onshore",
+          "volume_auctioned": 614601,
+          "average_price": 0.2,
+          "volume_sold": 614601,
+          "number_of_winners": 56
+        },
+        {
+          "region": "Grand Est",
+          "technology": "hydro",
+          "volume_auctioned": 24044,
+          "average_price": 0.18,
+          "volume_sold": 24044,
+          "number_of_winners": 16
+        },
+        {
+          "region": "Grand Est",
+          "technology": "solar",
+          "volume_auctioned": 12730,
+          "average_price": 0.18,
+          "volume_sold": 12730,
+          "number_of_winners": 26
+        },
+        {
+          "region": "Grand Est",
+          "technology": "thermal",
+          "volume_auctioned": 55420,
+          "average_price": 0.16,
+          "volume_sold": 55420,
+          "number_of_winners": 26
+        },
+        {
+          "region": "Haut-de-France",
+          "technology": "wind_energy_onshore",
+          "volume_auctioned": 1058316,
+          "average_price": 0.2,
+          "volume_sold": 1058316,
+          "number_of_winners": 106
+        },
+        {
+          "region": "Haut-de-France",
+          "technology": "hydro",
+          "volume_auctioned": 1119,
+          "average_price": 0.27,
+          "volume_sold": 1119,
+          "number_of_winners": 16
+        },
+        {
+          "region": "Haut-de-France",
+          "technology": "solar",
+          "volume_auctioned": 5171,
+          "average_price": 0.19,
+          "volume_sold": 5171,
+          "number_of_winners": 36
+        },
+        {
+          "region": "Haut-de-France",
+          "technology": "thermal",
+          "volume_auctioned": 35115,
+          "average_price": 0.16,
+          "volume_sold": 35115,
+          "number_of_winners": 26
+        },
+        {
+          "region": "Île-de-France",
+          "technology": "wind_energy_onshore",
+          "volume_auctioned": 26454,
+          "average_price": 0.22,
+          "volume_sold": 26454,
+          "number_of_winners": 46
+        },
+        {
+          "region": "Île-de-France",
+          "technology": "hydro",
+          "volume_auctioned": 326,
+          "average_price": 0.27,
+          "volume_sold": 326,
+          "number_of_winners": 26
+        },
+        {
+          "region": "Île-de-France",
+          "technology": "solar",
+          "volume_auctioned": 2067,
+          "average_price": 0.24,
+          "volume_sold": 2067,
+          "number_of_winners": 46
+        },
+        {
+          "region": "Île-de-France",
+          "technology": "thermal",
+          "volume_auctioned": 15759,
+          "average_price": 0.16,
+          "volume_sold": 15759,
+          "number_of_winners": 26
+        },
+        {
+          "region": "Normandie",
+          "technology": "wind_energy_onshore",
+          "volume_auctioned": 145705,
+          "average_price": 0.19,
+          "volume_sold": 145705,
+          "number_of_winners": 36
+        },
+        {
+          "region": "Normandie",
+          "technology": "hydro",
+          "volume_auctioned": 1839,
+          "average_price": 0.18,
+          "volume_sold": 1839,
+          "number_of_winners": 16
+        },
+        {
+          "region": "Normandie",
+          "technology": "solar",
+          "volume_auctioned": 1880,
+          "average_price": 0.2,
+          "volume_sold": 1880,
+          "number_of_winners": 26
+        },
+        {
+          "region": "Normandie",
+          "technology": "thermal",
+          "volume_auctioned": 33419,
+          "average_price": 0.16,
+          "volume_sold": 33419,
+          "number_of_winners": 26
+        },
+        {
+          "region": "Nouvelle-Aquitaine",
+          "technology": "wind_energy_onshore",
+          "volume_auctioned": 222306,
+          "average_price": 0.19,
+          "volume_sold": 222306,
+          "number_of_winners": 46
+        },
+        {
+          "region": "Nouvelle-Aquitaine",
+          "technology": "hydro",
+          "volume_auctioned": 47583,
+          "average_price": 0.19,
+          "volume_sold": 47583,
+          "number_of_winners": 56
+        },
+        {
+          "region": "Nouvelle-Aquitaine",
+          "technology": "solar",
+          "volume_auctioned": 97108,
+          "average_price": 0.22,
+          "volume_sold": 97108,
+          "number_of_winners": 96
+        },
+        {
+          "region": "Nouvelle-Aquitaine",
+          "technology": "thermal",
+          "volume_auctioned": 62396,
+          "average_price": 0.16,
+          "volume_sold": 62396,
+          "number_of_winners": 46
+        },
+        {
+          "region": "Occitanie",
+          "technology": "wind_energy_onshore",
+          "volume_auctioned": 189044,
+          "average_price": 0.19,
+          "volume_sold": 189044,
+          "number_of_winners": 106
+        },
+        {
+          "region": "Occitanie",
+          "technology": "hydro",
+          "volume_auctioned": 89989,
+          "average_price": 0.19,
+          "volume_sold": 89989,
+          "number_of_winners": 56
+        },
+        {
+          "region": "Occitanie",
+          "technology": "solar",
+          "volume_auctioned": 95056,
+          "average_price": 0.21,
+          "volume_sold": 95056,
+          "number_of_winners": 66
+        },
+        {
+          "region": "Occitanie",
+          "technology": "thermal",
+          "volume_auctioned": 13929,
+          "average_price": 0.16,
+          "volume_sold": 13929,
+          "number_of_winners": 16
+        },
+        {
+          "region": "Pays de la Loire",
+          "technology": "wind_energy_onshore",
+          "volume_auctioned": 163778,
+          "average_price": 0.19,
+          "volume_sold": 163778,
+          "number_of_winners": 46
+        },
+        {
+          "region": "Pays de la Loire",
+          "technology": "hydro",
+          "volume_auctioned": 2676,
+          "average_price": 0.18,
+          "volume_sold": 2676,
+          "number_of_winners": 26
+        },
+        {
+          "region": "Pays de la Loire",
+          "technology": "solar",
+          "volume_auctioned": 11951,
+          "average_price": 0.26,
+          "volume_sold": 11951,
+          "number_of_winners": 36
+        },
+        {
+          "region": "Pays de la Loire",
+          "technology": "thermal",
+          "volume_auctioned": 16543,
+          "average_price": 0.16,
+          "volume_sold": 16543,
+          "number_of_winners": 16
+        },
+        {
+          "region": "Provence-Alpes-Côte d'Azur",
+          "technology": "wind_energy_onshore",
+          "volume_auctioned": 13567,
+          "average_price": 0.18,
+          "volume_sold": 13567,
+          "number_of_winners": 26
+        },
+        {
+          "region": "Provence-Alpes-Côte d'Azur",
+          "technology": "hydro",
+          "volume_auctioned": 22102,
+          "average_price": 0.24,
+          "volume_sold": 22102,
+          "number_of_winners": 36
+        },
+        {
+          "region": "Provence-Alpes-Côte d'Azur",
+          "technology": "solar",
+          "volume_auctioned": 92615,
+          "average_price": 0.2,
+          "volume_sold": 92615,
+          "number_of_winners": 86
+        },
+        {
+          "region": "Provence-Alpes-Côte d'Azur",
+          "technology": "thermal",
+          "volume_auctioned": 16329,
+          "average_price": 0.16,
+          "volume_sold": 16329,
+          "number_of_winners": 16
+        }
+      ],
+      "date": "2024-12-01",
+      "number_of_participants": 30,
+      "md5_hash": "78be5a8a504833ebe5f0704afe8cff01"
+    },
+    {
+      "auctions": [
+        {
+          "region": "Auvergne-Rhône-Alpes",
+          "technology": "wind_energy_onshore",
+          "volume_auctioned": 89188,
+          "average_price": 0.74,
+          "volume_sold": 89187,
+          "number_of_winners": 57
+        },
+        {
+          "region": "Auvergne-Rhône-Alpes",
+          "technology": "hydro",
+          "volume_auctioned": 108771,
+          "average_price": 0.68,
+          "volume_sold": 108771,
+          "number_of_winners": 47
+        },
+        {
+          "region": "Auvergne-Rhône-Alpes",
+          "technology": "solar",
+          "volume_auctioned": 43056,
+          "average_price": 0.75,
+          "volume_sold": 43056,
+          "number_of_winners": 77
+        },
+        {
+          "region": "Auvergne-Rhône-Alpes",
+          "technology": "thermal",
+          "volume_auctioned": 22297,
+          "average_price": 0.65,
+          "volume_sold": 22297,
+          "number_of_winners": 27
+        },
+        {
+          "region": "Bourgogne-Franche-Comté",
+          "technology": "wind_energy_onshore",
+          "volume_auctioned": 263010,
+          "average_price": 0.68,
+          "volume_sold": 263010,
+          "number_of_winners": 117
+        },
+        {
+          "region": "Bourgogne-Franche-Comté",
+          "technology": "hydro",
+          "volume_auctioned": 20823,
+          "average_price": 0.68,
+          "volume_sold": 20823,
+          "number_of_winners": 17
+        },
+        {
+          "region": "Bourgogne-Franche-Comté",
+          "technology": "solar",
+          "volume_auctioned": 14958,
+          "average_price": 0.74,
+          "volume_sold": 14958,
+          "number_of_winners": 47
+        },
+        {
+          "region": "Bourgogne-Franche-Comté",
+          "technology": "thermal",
+          "volume_auctioned": 19446,
+          "average_price": 0.65,
+          "volume_sold": 19446,
+          "number_of_winners": 27
+        },
+        {
+          "region": "Bretagne",
+          "technology": "wind_energy_onshore",
+          "volume_auctioned": 129471,
+          "average_price": 0.67,
+          "volume_sold": 129471,
+          "number_of_winners": 57
+        },
+        {
+          "region": "Bretagne",
+          "technology": "hydro",
+          "volume_auctioned": 5461,
+          "average_price": 0.65,
+          "volume_sold": 5461,
+          "number_of_winners": 17
+        },
+        {
+          "region": "Bretagne",
+          "technology": "solar",
+          "volume_auctioned": 6254,
+          "average_price": 0.75,
+          "volume_sold": 6254,
+          "number_of_winners": 57
+        },
+        {
+          "region": "Bretagne",
+          "technology": "thermal",
+          "volume_auctioned": 19796,
+          "average_price": 0.65,
+          "volume_sold": 19796,
+          "number_of_winners": 27
+        },
+        {
+          "region": "Centre-Val de Loire",
+          "technology": "wind_energy_onshore",
+          "volume_auctioned": 269882,
+          "average_price": 0.68,
+          "volume_sold": 269882,
+          "number_of_winners": 77
+        },
+        {
+          "region": "Centre-Val de Loire",
+          "technology": "hydro",
+          "volume_auctioned": 1033,
+          "average_price": 0.63,
+          "volume_sold": 1033,
+          "number_of_winners": 17
+        },
+        {
+          "region": "Centre-Val de Loire",
+          "technology": "solar",
+          "volume_auctioned": 16397,
+          "average_price": 0.75,
+          "volume_sold": 16397,
+          "number_of_winners": 57
+        },
+        {
+          "region": "Centre-Val de Loire",
+          "technology": "thermal",
+          "volume_auctioned": 15600,
+          "average_price": 0.65,
+          "volume_sold": 15600,
+          "number_of_winners": 17
+        },
+        {
+          "region": "Grand Est",
+          "technology": "wind_energy_onshore",
+          "volume_auctioned": 744652,
+          "average_price": 0.67,
+          "volume_sold": 744652,
+          "number_of_winners": 97
+        },
+        {
+          "region": "Grand Est",
+          "technology": "hydro",
+          "volume_auctioned": 25260,
+          "average_price": 0.67,
+          "volume_sold": 25260,
+          "number_of_winners": 27
+        },
+        {
+          "region": "Grand Est",
+          "technology": "solar",
+          "volume_auctioned": 20117,
+          "average_price": 0.75,
+          "volume_sold": 20117,
+          "number_of_winners": 37
+        },
+        {
+          "region": "Grand Est",
+          "technology": "thermal",
+          "volume_auctioned": 54188,
+          "average_price": 0.64,
+          "volume_sold": 54188,
+          "number_of_winners": 27
+        },
+        {
+          "region": "Haut-de-France",
+          "technology": "wind_energy_onshore",
+          "volume_auctioned": 866480,
+          "average_price": 0.66,
+          "volume_sold": 866480,
+          "number_of_winners": 97
+        },
+        {
+          "region": "Haut-de-France",
+          "technology": "hydro",
+          "volume_auctioned": 1018,
+          "average_price": 0.65,
+          "volume_sold": 1018,
+          "number_of_winners": 27
+        },
+        {
+          "region": "Haut-de-France",
+          "technology": "solar",
+          "volume_auctioned": 7344,
+          "average_price": 0.73,
+          "volume_sold": 7344,
+          "number_of_winners": 47
+        },
+        {
+          "region": "Haut-de-France",
+          "technology": "thermal",
+          "volume_auctioned": 33290,
+          "average_price": 0.64,
+          "volume_sold": 33290,
+          "number_of_winners": 17
+        },
+        {
+          "region": "Île-de-France",
+          "technology": "wind_energy_onshore",
+          "volume_auctioned": 29205,
+          "average_price": 0.67,
+          "volume_sold": 29205,
+          "number_of_winners": 47
+        },
+        {
+          "region": "Île-de-France",
+          "technology": "hydro",
+          "volume_auctioned": 180,
+          "average_price": 0.68,
+          "volume_sold": 180,
+          "number_of_winners": 17
+        },
+        {
+          "region": "Île-de-France",
+          "technology": "solar",
+          "volume_auctioned": 2827,
+          "average_price": 0.66,
+          "volume_sold": 2827,
+          "number_of_winners": 57
+        },
+        {
+          "region": "Île-de-France",
+          "technology": "thermal",
+          "volume_auctioned": 16955,
+          "average_price": 0.64,
+          "volume_sold": 16955,
+          "number_of_winners": 17
+        },
+        {
+          "region": "Normandie",
+          "technology": "wind_energy_onshore",
+          "volume_auctioned": 123255,
+          "average_price": 0.64,
+          "volume_sold": 123255,
+          "number_of_winners": 37
+        },
+        {
+          "region": "Normandie",
+          "technology": "hydro",
+          "volume_auctioned": 1529,
+          "average_price": 0.65,
+          "volume_sold": 1529,
+          "number_of_winners": 17
+        },
+        {
+          "region": "Normandie",
+          "technology": "solar",
+          "volume_auctioned": 3176,
+          "average_price": 0.63,
+          "volume_sold": 3176,
+          "number_of_winners": 37
+        },
+        {
+          "region": "Normandie",
+          "technology": "thermal",
+          "volume_auctioned": 34071,
+          "average_price": 0.63,
+          "volume_sold": 34071,
+          "number_of_winners": 37
+        },
+        {
+          "region": "Nouvelle-Aquitaine",
+          "technology": "wind_energy_onshore",
+          "volume_auctioned": 302753,
+          "average_price": 0.65,
+          "volume_sold": 302753,
+          "number_of_winners": 77
+        },
+        {
+          "region": "Nouvelle-Aquitaine",
+          "technology": "hydro",
+          "volume_auctioned": 49320,
+          "average_price": 0.67,
+          "volume_sold": 49320,
+          "number_of_winners": 47
+        },
+        {
+          "region": "Nouvelle-Aquitaine",
+          "technology": "solar",
+          "volume_auctioned": 112278,
+          "average_price": 0.65,
+          "volume_sold": 112278,
+          "number_of_winners": 87
+        },
+        {
+          "region": "Nouvelle-Aquitaine",
+          "technology": "thermal",
+          "volume_auctioned": 46396,
+          "average_price": 0.63,
+          "volume_sold": 46396,
+          "number_of_winners": 17
+        },
+        {
+          "region": "Occitanie",
+          "technology": "wind_energy_onshore",
+          "volume_auctioned": 155364,
+          "average_price": 0.63,
+          "volume_sold": 155364,
+          "number_of_winners": 77
+        },
+        {
+          "region": "Occitanie",
+          "technology": "hydro",
+          "volume_auctioned": 93206,
+          "average_price": 0.67,
+          "volume_sold": 93206,
+          "number_of_winners": 57
+        },
+        {
+          "region": "Occitanie",
+          "technology": "solar",
+          "volume_auctioned": 106837,
+          "average_price": 0.65,
+          "volume_sold": 106837,
+          "number_of_winners": 77
+        },
+        {
+          "region": "Occitanie",
+          "technology": "thermal",
+          "volume_auctioned": 12801,
+          "average_price": 0.63,
+          "volume_sold": 12801,
+          "number_of_winners": 27
+        },
+        {
+          "region": "Pays de la Loire",
+          "technology": "wind_energy_onshore",
+          "volume_auctioned": 195357,
+          "average_price": 0.66,
+          "volume_sold": 195357,
+          "number_of_winners": 77
+        },
+        {
+          "region": "Pays de la Loire",
+          "technology": "hydro",
+          "volume_auctioned": 1722,
+          "average_price": 0.68,
+          "volume_sold": 1722,
+          "number_of_winners": 17
+        },
+        {
+          "region": "Pays de la Loire",
+          "technology": "solar",
+          "volume_auctioned": 15760,
+          "average_price": 0.73,
+          "volume_sold": 15760,
+          "number_of_winners": 47
+        },
+        {
+          "region": "Pays de la Loire",
+          "technology": "thermal",
+          "volume_auctioned": 16968,
+          "average_price": 0.65,
+          "volume_sold": 16968,
+          "number_of_winners": 27
+        },
+        {
+          "region": "Provence-Alpes-Côte d'Azur",
+          "technology": "wind_energy_onshore",
+          "volume_auctioned": 15033,
+          "average_price": 0.67,
+          "volume_sold": 15033,
+          "number_of_winners": 17
+        },
+        {
+          "region": "Provence-Alpes-Côte d'Azur",
+          "technology": "hydro",
+          "volume_auctioned": 21154,
+          "average_price": 0.67,
+          "volume_sold": 21154,
+          "number_of_winners": 47
+        },
+        {
+          "region": "Provence-Alpes-Côte d'Azur",
+          "technology": "solar",
+          "volume_auctioned": 85181,
+          "average_price": 0.64,
+          "volume_sold": 85181,
+          "number_of_winners": 77
+        },
+        {
+          "region": "Provence-Alpes-Côte d'Azur",
+          "technology": "thermal",
+          "volume_auctioned": 15685,
+          "average_price": 0.63,
+          "volume_sold": 15685,
+          "number_of_winners": 37
+        }
+      ],
+      "date": "2025-01-01",
+      "number_of_participants": 32,
+      "md5_hash": "a656e70a938d6b3459c9b0b38be26b5d"
+    },
+    {
+      "auctions": [
+        {
+          "region": "Auvergne-Rhône-Alpes",
+          "technology": "wind_energy_onshore",
+          "volume_auctioned": 56761,
+          "average_price": 0.5,
+          "volume_sold": 56761,
+          "number_of_winners": 68
+        },
+        {
+          "region": "Auvergne-Rhône-Alpes",
+          "technology": "hydro",
+          "volume_auctioned": 91148,
+          "average_price": 0.5,
+          "volume_sold": 91148,
+          "number_of_winners": 58
+        },
+        {
+          "region": "Auvergne-Rhône-Alpes",
+          "technology": "solar",
+          "volume_auctioned": 67748,
+          "average_price": 0.5,
+          "volume_sold": 67748,
+          "number_of_winners": 58
+        },
+        {
+          "region": "Auvergne-Rhône-Alpes",
+          "technology": "thermal",
+          "volume_auctioned": 21338,
+          "average_price": 0.48,
+          "volume_sold": 21338,
+          "number_of_winners": 38
+        },
+        {
+          "region": "Bourgogne-Franche-Comté",
+          "technology": "wind_energy_onshore",
+          "volume_auctioned": 124480,
+          "average_price": 0.54,
+          "volume_sold": 124480,
+          "number_of_winners": 88
+        },
+        {
+          "region": "Bourgogne-Franche-Comté",
+          "technology": "hydro",
+          "volume_auctioned": 17847,
+          "average_price": 0.45,
+          "volume_sold": 17847,
+          "number_of_winners": 18
+        },
+        {
+          "region": "Bourgogne-Franche-Comté",
+          "technology": "solar",
+          "volume_auctioned": 23757,
+          "average_price": 0.5,
+          "volume_sold": 23757,
+          "number_of_winners": 38
+        },
+        {
+          "region": "Bourgogne-Franche-Comté",
+          "technology": "thermal",
+          "volume_auctioned": 15706,
+          "average_price": 0.46,
+          "volume_sold": 15706,
+          "number_of_winners": 18
+        },
+        {
+          "region": "Bretagne",
+          "technology": "wind_energy_onshore",
+          "volume_auctioned": 89476,
+          "average_price": 0.5,
+          "volume_sold": 89476,
+          "number_of_winners": 88
+        },
+        {
+          "region": "Bretagne",
+          "technology": "hydro",
+          "volume_auctioned": 3911,
+          "average_price": 0.5,
+          "volume_sold": 3911,
+          "number_of_winners": 18
+        },
+        {
+          "region": "Bretagne",
+          "technology": "solar",
+          "volume_auctioned": 10425,
+          "average_price": 0.49,
+          "volume_sold": 10425,
+          "number_of_winners": 48
+        },
+        {
+          "region": "Bretagne",
+          "technology": "thermal",
+          "volume_auctioned": 18261,
+          "average_price": 0.45,
+          "volume_sold": 18261,
+          "number_of_winners": 48
+        },
+        {
+          "region": "Centre-Val de Loire",
+          "technology": "wind_energy_onshore",
+          "volume_auctioned": 139530,
+          "average_price": 0.49,
+          "volume_sold": 139530,
+          "number_of_winners": 68
+        },
+        {
+          "region": "Centre-Val de Loire",
+          "technology": "hydro",
+          "volume_auctioned": 1122,
+          "average_price": 0.45,
+          "volume_sold": 1122,
+          "number_of_winners": 18
+        },
+        {
+          "region": "Centre-Val de Loire",
+          "technology": "solar",
+          "volume_auctioned": 30406,
+          "average_price": 0.5,
+          "volume_sold": 30406,
+          "number_of_winners": 58
+        },
+        {
+          "region": "Centre-Val de Loire",
+          "technology": "thermal",
+          "volume_auctioned": 14042,
+          "average_price": 0.45,
+          "volume_sold": 14042,
+          "number_of_winners": 18
+        },
+        {
+          "region": "Grand Est",
+          "technology": "wind_energy_onshore",
+          "volume_auctioned": 411968,
+          "average_price": 0.48,
+          "volume_sold": 411968,
+          "number_of_winners": 78
+        },
+        {
+          "region": "Grand Est",
+          "technology": "hydro",
+          "volume_auctioned": 23991,
+          "average_price": 0.47,
+          "volume_sold": 23991,
+          "number_of_winners": 28
+        },
+        {
+          "region": "Grand Est",
+          "technology": "solar",
+          "volume_auctioned": 35649,
+          "average_price": 0.49,
+          "volume_sold": 35649,
+          "number_of_winners": 28
+        },
+        {
+          "region": "Grand Est",
+          "technology": "thermal",
+          "volume_auctioned": 51262,
+          "average_price": 0.45,
+          "volume_sold": 51262,
+          "number_of_winners": 58
+        },
+        {
+          "region": "Haut-de-France",
+          "technology": "wind_energy_onshore",
+          "volume_auctioned": 654805,
+          "average_price": 0.48,
+          "volume_sold": 654805,
+          "number_of_winners": 98
+        },
+        {
+          "region": "Haut-de-France",
+          "technology": "hydro",
+          "volume_auctioned": 1166,
+          "average_price": 0.45,
+          "volume_sold": 1166,
+          "number_of_winners": 18
+        },
+        {
+          "region": "Haut-de-France",
+          "technology": "solar",
+          "volume_auctioned": 14490,
+          "average_price": 0.47,
+          "volume_sold": 14490,
+          "number_of_winners": 38
+        },
+        {
+          "region": "Haut-de-France",
+          "technology": "thermal",
+          "volume_auctioned": 30789,
+          "average_price": 0.44,
+          "volume_sold": 30789,
+          "number_of_winners": 28
+        },
+        {
+          "region": "Île-de-France",
+          "technology": "wind_energy_onshore",
+          "volume_auctioned": 16323,
+          "average_price": 0.61,
+          "volume_sold": 16323,
+          "number_of_winners": 28
+        },
+        {
+          "region": "Île-de-France",
+          "technology": "hydro",
+          "volume_auctioned": 704,
+          "average_price": 0.45,
+          "volume_sold": 704,
+          "number_of_winners": 18
+        },
+        {
+          "region": "Île-de-France",
+          "technology": "solar",
+          "volume_auctioned": 5349,
+          "average_price": 0.55,
+          "volume_sold": 5349,
+          "number_of_winners": 48
+        },
+        {
+          "region": "Île-de-France",
+          "technology": "thermal",
+          "volume_auctioned": 15091,
+          "average_price": 0.43,
+          "volume_sold": 15091,
+          "number_of_winners": 28
+        },
+        {
+          "region": "Normandie",
+          "technology": "wind_energy_onshore",
+          "volume_auctioned": 93831,
+          "average_price": 0.47,
+          "volume_sold": 93831,
+          "number_of_winners": 48
+        },
+        {
+          "region": "Normandie",
+          "technology": "hydro",
+          "volume_auctioned": 1888,
+          "average_price": 0.47,
+          "volume_sold": 1888,
+          "number_of_winners": 38
+        },
+        {
+          "region": "Normandie",
+          "technology": "solar",
+          "volume_auctioned": 6313,
+          "average_price": 0.45,
+          "volume_sold": 6313,
+          "number_of_winners": 18
+        },
+        {
+          "region": "Normandie",
+          "technology": "thermal",
+          "volume_auctioned": 28444,
+          "average_price": 0.44,
+          "volume_sold": 28444,
+          "number_of_winners": 38
+        },
+        {
+          "region": "Nouvelle-Aquitaine",
+          "technology": "wind_energy_onshore",
+          "volume_auctioned": 126063,
+          "average_price": 0.51,
+          "volume_sold": 126063,
+          "number_of_winners": 98
+        },
+        {
+          "region": "Nouvelle-Aquitaine",
+          "technology": "hydro",
+          "volume_auctioned": 45201,
+          "average_price": 0.46,
+          "volume_sold": 45201,
+          "number_of_winners": 38
+        },
+        {
+          "region": "Nouvelle-Aquitaine",
+          "technology": "solar",
+          "volume_auctioned": 184744,
+          "average_price": 0.47,
+          "volume_sold": 184744,
+          "number_of_winners": 98
+        },
+        {
+          "region": "Nouvelle-Aquitaine",
+          "technology": "thermal",
+          "volume_auctioned": 40443,
+          "average_price": 0.43,
+          "volume_sold": 40443,
+          "number_of_winners": 28
+        },
+        {
+          "region": "Occitanie",
+          "technology": "wind_energy_onshore",
+          "volume_auctioned": 114290,
+          "average_price": 0.47,
+          "volume_sold": 114290,
+          "number_of_winners": 88
+        },
+        {
+          "region": "Occitanie",
+          "technology": "hydro",
+          "volume_auctioned": 83160,
+          "average_price": 0.48,
+          "volume_sold": 83160,
+          "number_of_winners": 48
+        },
+        {
+          "region": "Occitanie",
+          "technology": "solar",
+          "volume_auctioned": 152095,
+          "average_price": 0.47,
+          "volume_sold": 152095,
+          "number_of_winners": 88
+        },
+        {
+          "region": "Occitanie",
+          "technology": "thermal",
+          "volume_auctioned": 11699,
+          "average_price": 0.43,
+          "volume_sold": 11699,
+          "number_of_winners": 58
+        },
+        {
+          "region": "Pays de la Loire",
+          "technology": "wind_energy_onshore",
+          "volume_auctioned": 106561,
+          "average_price": 0.5,
+          "volume_sold": 106561,
+          "number_of_winners": 88
+        },
+        {
+          "region": "Pays de la Loire",
+          "technology": "hydro",
+          "volume_auctioned": 2240,
+          "average_price": 0.47,
+          "volume_sold": 2240,
+          "number_of_winners": 28
+        },
+        {
+          "region": "Pays de la Loire",
+          "technology": "solar",
+          "volume_auctioned": 28099,
+          "average_price": 0.47,
+          "volume_sold": 28099,
+          "number_of_winners": 48
+        },
+        {
+          "region": "Pays de la Loire",
+          "technology": "thermal",
+          "volume_auctioned": 15008,
+          "average_price": 0.44,
+          "volume_sold": 15008,
+          "number_of_winners": 28
+        },
+        {
+          "region": "Provence-Alpes-Côte d'Azur",
+          "technology": "wind_energy_onshore",
+          "volume_auctioned": 9096,
+          "average_price": 0.46,
+          "volume_sold": 9096,
+          "number_of_winners": 28
+        },
+        {
+          "region": "Provence-Alpes-Côte d'Azur",
+          "technology": "hydro",
+          "volume_auctioned": 21483,
+          "average_price": 0.46,
+          "volume_sold": 21483,
+          "number_of_winners": 38
+        },
+        {
+          "region": "Provence-Alpes-Côte d'Azur",
+          "technology": "solar",
+          "volume_auctioned": 101347,
+          "average_price": 0.49,
+          "volume_sold": 101347,
+          "number_of_winners": 88
+        },
+        {
+          "region": "Provence-Alpes-Côte d'Azur",
+          "technology": "thermal",
+          "volume_auctioned": 14955,
+          "average_price": 0.45,
+          "volume_sold": 14955,
+          "number_of_winners": 18
+        }
+      ],
+      "date": "2025-02-01",
+      "number_of_participants": 32,
+      "md5_hash": "1353f0920dec0b444c7849eee1bf5cb9"
+    },
+    {
+      "auctions": [
+        {
+          "region": "Auvergne-Rhône-Alpes",
+          "technology": "wind_energy_onshore",
+          "volume_auctioned": 76743,
+          "average_price": 0.61,
+          "volume_sold": 76743,
+          "number_of_winners": 34
+        },
+        {
+          "region": "Auvergne-Rhône-Alpes",
+          "technology": "hydro",
+          "volume_auctioned": 83722,
+          "average_price": 0.61,
+          "volume_sold": 83722,
+          "number_of_winners": 34
+        },
+        {
+          "region": "Auvergne-Rhône-Alpes",
+          "technology": "solar",
+          "volume_auctioned": 104229,
+          "average_price": 0.62,
+          "volume_sold": 104229,
+          "number_of_winners": 54
+        },
+        {
+          "region": "Auvergne-Rhône-Alpes",
+          "technology": "thermal",
+          "volume_auctioned": 28279,
+          "average_price": 0.6,
+          "volume_sold": 28279,
+          "number_of_winners": 14
+        },
+        {
+          "region": "Bourgogne-Franche-Comté",
+          "technology": "wind_energy_onshore",
+          "volume_auctioned": 158756,
+          "average_price": 0.61,
+          "volume_sold": 158756,
+          "number_of_winners": 74
+        },
+        {
+          "region": "Bourgogne-Franche-Comté",
+          "technology": "hydro",
+          "volume_auctioned": 17743,
+          "average_price": 0.61,
+          "volume_sold": 17743,
+          "number_of_winners": 24
+        },
+        {
+          "region": "Bourgogne-Franche-Comté",
+          "technology": "solar",
+          "volume_auctioned": 47036,
+          "average_price": 0.61,
+          "volume_sold": 47036,
+          "number_of_winners": 24
+        },
+        {
+          "region": "Bourgogne-Franche-Comté",
+          "technology": "thermal",
+          "volume_auctioned": 19500,
+          "average_price": 0.59,
+          "volume_sold": 19500,
+          "number_of_winners": 14
+        },
+        {
+          "region": "Bretagne",
+          "technology": "wind_energy_onshore",
+          "volume_auctioned": 96533,
+          "average_price": 0.61,
+          "volume_sold": 96533,
+          "number_of_winners": 44
+        },
+        {
+          "region": "Bretagne",
+          "technology": "hydro",
+          "volume_auctioned": 2017,
+          "average_price": 0.6,
+          "volume_sold": 2017,
+          "number_of_winners": 14
+        },
+        {
+          "region": "Bretagne",
+          "technology": "solar",
+          "volume_auctioned": 22852,
+          "average_price": 0.6,
+          "volume_sold": 22852,
+          "number_of_winners": 34
+        },
+        {
+          "region": "Bretagne",
+          "technology": "thermal",
+          "volume_auctioned": 17303,
+          "average_price": 0.6,
+          "volume_sold": 17303,
+          "number_of_winners": 24
+        },
+        {
+          "region": "Centre-Val de Loire",
+          "technology": "wind_energy_onshore",
+          "volume_auctioned": 166916,
+          "average_price": 0.6,
+          "volume_sold": 166916,
+          "number_of_winners": 34
+        },
+        {
+          "region": "Centre-Val de Loire",
+          "technology": "hydro",
+          "volume_auctioned": 1672,
+          "average_price": 0.6,
+          "volume_sold": 1672,
+          "number_of_winners": 14
+        },
+        {
+          "region": "Centre-Val de Loire",
+          "technology": "solar",
+          "volume_auctioned": 56661,
+          "average_price": 0.61,
+          "volume_sold": 56661,
+          "number_of_winners": 34
+        },
+        {
+          "region": "Centre-Val de Loire",
+          "technology": "thermal",
+          "volume_auctioned": 14448,
+          "average_price": 0.6,
+          "volume_sold": 14448,
+          "number_of_winners": 14
+        },
+        {
+          "region": "Grand Est",
+          "technology": "wind_energy_onshore",
+          "volume_auctioned": 465624,
+          "average_price": 0.6,
+          "volume_sold": 465624,
+          "number_of_winners": 24
+        },
+        {
+          "region": "Grand Est",
+          "technology": "hydro",
+          "volume_auctioned": 21962,
+          "average_price": 0.6,
+          "volume_sold": 21962,
+          "number_of_winners": 14
+        },
+        {
+          "region": "Grand Est",
+          "technology": "solar",
+          "volume_auctioned": 82691,
+          "average_price": 0.61,
+          "volume_sold": 82691,
+          "number_of_winners": 24
+        },
+        {
+          "region": "Grand Est",
+          "technology": "thermal",
+          "volume_auctioned": 50190,
+          "average_price": 0.6,
+          "volume_sold": 50190,
+          "number_of_winners": 14
+        },
+        {
+          "region": "Haut-de-France",
+          "technology": "wind_energy_onshore",
+          "volume_auctioned": 602073,
+          "average_price": 0.6,
+          "volume_sold": 602073,
+          "number_of_winners": 74
+        },
+        {
+          "region": "Haut-de-France",
+          "technology": "hydro",
+          "volume_auctioned": 1500,
+          "average_price": 0.6,
+          "volume_sold": 1500,
+          "number_of_winners": 14
+        },
+        {
+          "region": "Haut-de-France",
+          "technology": "solar",
+          "volume_auctioned": 33249,
+          "average_price": 0.61,
+          "volume_sold": 33249,
+          "number_of_winners": 24
+        },
+        {
+          "region": "Haut-de-France",
+          "technology": "thermal",
+          "volume_auctioned": 30915,
+          "average_price": 0.59,
+          "volume_sold": 30915,
+          "number_of_winners": 14
+        },
+        {
+          "region": "Île-de-France",
+          "technology": "wind_energy_onshore",
+          "volume_auctioned": 20490,
+          "average_price": 0.65,
+          "volume_sold": 20490,
+          "number_of_winners": 24
+        },
+        {
+          "region": "Île-de-France",
+          "technology": "hydro",
+          "volume_auctioned": 1131,
+          "average_price": 0.65,
+          "volume_sold": 1131,
+          "number_of_winners": 14
+        },
+        {
+          "region": "Île-de-France",
+          "technology": "solar",
+          "volume_auctioned": 12353,
+          "average_price": 0.65,
+          "volume_sold": 12353,
+          "number_of_winners": 24
+        },
+        {
+          "region": "Île-de-France",
+          "technology": "thermal",
+          "volume_auctioned": 16588,
+          "average_price": 0.65,
+          "volume_sold": 16588,
+          "number_of_winners": 14
+        },
+        {
+          "region": "Normandie",
+          "technology": "wind_energy_onshore",
+          "volume_auctioned": 85150,
+          "average_price": 0.6,
+          "volume_sold": 85150,
+          "number_of_winners": 24
+        },
+        {
+          "region": "Normandie",
+          "technology": "hydro",
+          "volume_auctioned": 2126,
+          "average_price": 0.6,
+          "volume_sold": 2126,
+          "number_of_winners": 14
+        },
+        {
+          "region": "Normandie",
+          "technology": "solar",
+          "volume_auctioned": 13875,
+          "average_price": 0.6,
+          "volume_sold": 13875,
+          "number_of_winners": 14
+        },
+        {
+          "region": "Normandie",
+          "technology": "thermal",
+          "volume_auctioned": 35399,
+          "average_price": 0.59,
+          "volume_sold": 35399,
+          "number_of_winners": 24
+        },
+        {
+          "region": "Nouvelle-Aquitaine",
+          "technology": "wind_energy_onshore",
+          "volume_auctioned": 221462,
+          "average_price": 0.6,
+          "volume_sold": 221462,
+          "number_of_winners": 64
+        },
+        {
+          "region": "Nouvelle-Aquitaine",
+          "technology": "hydro",
+          "volume_auctioned": 41067,
+          "average_price": 0.6,
+          "volume_sold": 41067,
+          "number_of_winners": 34
+        },
+        {
+          "region": "Nouvelle-Aquitaine",
+          "technology": "solar",
+          "volume_auctioned": 292573,
+          "average_price": 0.6,
+          "volume_sold": 292573,
+          "number_of_winners": 44
+        },
+        {
+          "region": "Nouvelle-Aquitaine",
+          "technology": "thermal",
+          "volume_auctioned": 57416,
+          "average_price": 0.59,
+          "volume_sold": 57416,
+          "number_of_winners": 14
+        },
+        {
+          "region": "Occitanie",
+          "technology": "wind_energy_onshore",
+          "volume_auctioned": 205015,
+          "average_price": 0.6,
+          "volume_sold": 205015,
+          "number_of_winners": 34
+        },
+        {
+          "region": "Occitanie",
+          "technology": "hydro",
+          "volume_auctioned": 88348,
+          "average_price": 0.6,
+          "volume_sold": 88348,
+          "number_of_winners": 24
+        },
+        {
+          "region": "Occitanie",
+          "technology": "solar",
+          "volume_auctioned": 210641,
+          "average_price": 0.6,
+          "volume_sold": 210641,
+          "number_of_winners": 34
+        },
+        {
+          "region": "Occitanie",
+          "technology": "thermal",
+          "volume_auctioned": 13039,
+          "average_price": 0.6,
+          "volume_sold": 13039,
+          "number_of_winners": 14
+        },
+        {
+          "region": "Pays de la Loire",
+          "technology": "wind_energy_onshore",
+          "volume_auctioned": 123804,
+          "average_price": 0.6,
+          "volume_sold": 123804,
+          "number_of_winners": 54
+        },
+        {
+          "region": "Pays de la Loire",
+          "technology": "hydro",
+          "volume_auctioned": 2641,
+          "average_price": 0.6,
+          "volume_sold": 2641,
+          "number_of_winners": 14
+        },
+        {
+          "region": "Pays de la Loire",
+          "technology": "solar",
+          "volume_auctioned": 58100,
+          "average_price": 0.6,
+          "volume_sold": 58100,
+          "number_of_winners": 34
+        },
+        {
+          "region": "Pays de la Loire",
+          "technology": "thermal",
+          "volume_auctioned": 13736,
+          "average_price": 0.59,
+          "volume_sold": 13736,
+          "number_of_winners": 44
+        },
+        {
+          "region": "Provence-Alpes-Côte d'Azur",
+          "technology": "wind_energy_onshore",
+          "volume_auctioned": 15742,
+          "average_price": 0.6,
+          "volume_sold": 15742,
+          "number_of_winners": 14
+        },
+        {
+          "region": "Provence-Alpes-Côte d'Azur",
+          "technology": "hydro",
+          "volume_auctioned": 21889,
+          "average_price": 0.6,
+          "volume_sold": 21889,
+          "number_of_winners": 24
+        },
+        {
+          "region": "Provence-Alpes-Côte d'Azur",
+          "technology": "solar",
+          "volume_auctioned": 160097,
+          "average_price": 0.6,
+          "volume_sold": 160097,
+          "number_of_winners": 64
+        },
+        {
+          "region": "Provence-Alpes-Côte d'Azur",
+          "technology": "thermal",
+          "volume_auctioned": 15929,
+          "average_price": 0.59,
+          "volume_sold": 15929,
+          "number_of_winners": 14
+        }
+      ],
+      "date": "2025-03-01",
+      "number_of_participants": 33,
+      "md5_hash": "3c03ad48cd1e6c809f8e76bc8e1cbbfc"
+    }
+  ]
+}

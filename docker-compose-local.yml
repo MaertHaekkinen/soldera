@@ -1,0 +1,21 @@
+services:
+  db:
+    image: postgres
+    restart: always
+    volumes:
+      - ./data/db:/var/lib/postgresql/data
+    environment:
+      - POSTGRES_PASSWORD=postgres
+      - PGUSER=postgres
+    ports:
+      - "5432:5432"
+    healthcheck:
+      test: [ "CMD-SHELL", "pg_isready", "-U", "postgres", "--password", "postgres" ]
+      interval: 1s
+      timeout: 5s
+      retries: 10
+  adminer:
+    image: adminer
+    restart: always
+    ports:
+      - 8080:8080

@@ -1,0 +1,26 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+node_modules
+react/build
+*.local
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+/.eslintcache
+/db.sqlite3
+/conf/
+.env
+/conf/*
+/data/*
+/soldera/settings/settings_local.py
+/soldera/settings/settings_prod.py
+/conf/*
+/soldera/settings/settings.py

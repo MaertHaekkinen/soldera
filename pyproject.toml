@@ -1,0 +1,30 @@
+[project]
+name = "soldera"
+version = "0.1.0"
+description = ""
+authors = [
+    {name = "MaertHaekkinen",email = "m4rth4kkinen@gmail.com"}
+]
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "requests (>=2.32.4,<3.0.0)",
+    "beautifulsoup4 (>=4.13.4,<5.0.0)",
+    "pandas (>=2.3.0,<3.0.0)",
+    "djangorestframework (>=3.16.0,<4.0.0)",
+    "djangorestframework-dataclasses (>=1.4.0,<2.0.0)",
+    "django-tasks (>=0.8.0,<0.9.0)",
+    "psycopg2-binary (>=2.9.10,<3.0.0)",
+    "openpyxl (>=3.1.5,<4.0.0)",
+]
+
+[tool.poetry.scripts]
+soldera = "manage:main"
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
+
+[tool.poetry.group.dev.dependencies]
+ruff = "^0.12.1"
+
