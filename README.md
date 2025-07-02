@@ -32,6 +32,6 @@
 5. Once the image is built it can be deployed.
 6. Run the application on the server using docker-compose or podman-compose.
 7. On the initial run, you must create the database `python manage.py migrate`, for that you'll have to
-   `docker exec -it <container_id> bash`, navigate to \app\soldera and activate venv with `source venv\bin\activate`
+   `docker exec -it <container_id> bash`, navigate to `\app\soldera` and activate venv with `source venv\bin\activate`
 
 *Project Requirements*: Python 3.13+, Poetry, pnpm, Node, Docker/Podman, Docker/Podman Compose.
