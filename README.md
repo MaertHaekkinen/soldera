@@ -23,7 +23,7 @@
 
 1. Create conf folder in the root of the project (this is git ignored).
 2. Create Certificate and Private Key for deployment in `conf` folder.
-4. Run `docker compose -f .\docker-compose.yml up`.
+4. Run `docker build -f .\docker-compose.yml`.
 
    NB! Current solution does not handle multiple settings, as of 01.07.2025 the solution is to rename settings.py to
    something else once done with development,
