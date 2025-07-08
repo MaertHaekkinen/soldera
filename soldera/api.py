@@ -49,5 +49,8 @@ class AuctionResultsViewSet(viewsets.ViewSet):
 
     @action(detail=False, methods=["post"], permission_classes=[])
     def refresh(self, request):
-        task = discover_auctions.enqueue()
+        task = Task.objects.filter(status__in=["STARTED", "RUNNING"], finished_at=None)
+        if not task:
+            task = discover_auctions.enqueue()
+
         return Response({"id": task.id})
