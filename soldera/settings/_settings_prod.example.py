@@ -13,7 +13,7 @@ BASE_DIR = Path(__file__).resolve().parents[2]
 SECRET_KEY = "this-is-the-actual-secret-key........."
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
 ALLOWED_HOSTS += ["www.my-website.com", "my-ip"]
 
