@@ -89,7 +89,7 @@ FROM python_base_installed AS soldera_runtime
 # -j0 uses all available CPUs.
 RUN python3 -m compileall -j0 -q .
 
-# Copy compiled react files and node_modules for RapiDoc
+# Copy compiled react files and node_modules
 COPY --from=react_release /app/soldera/ .
 
 # Remove temp directory, if we have created on.
